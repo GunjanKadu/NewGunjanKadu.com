@@ -14,7 +14,7 @@ v-footer.layout__footer.py-0(
             target='_blank',
             rel='noopener noreferrer',
             title=''
-          ) @andrejsharapov
+          ) @gunjankadu
             v-icon(right, color='primary', small) {{ mdiOpenInNew }}
       v-col(cols='12', md='6')
         v-card-text.py-2.d-flex.justify-center.justify-md-end

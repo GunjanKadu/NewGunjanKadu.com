@@ -332,7 +332,7 @@ export default {
           },
           {
             title: 'Designing Skills',
-            val: '75',
+            val: '60',
             icon: mdiPalette,
             color_one: '#5b62e0',
             color_two: '#5731a1',
