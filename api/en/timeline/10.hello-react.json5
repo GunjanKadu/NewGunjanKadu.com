@@ -1,0 +1,8 @@
+{
+  label: 'development',
+  date: '2019-05-15',
+  title: 'React & Redux',
+  caption: "I started studying React and Redux, creating my first team collaboration application. This application is is an Instant Communication Platform for teams and workplaces it can be used across multiple devices and platforms, and is equipped with robust features that allow you to not only chat one-on-one with associates but also in groups. You're able to upload and share files with them too, as well as integrate with other apps and services and you can granularly control almost every setting, including the ability to create custom emoji. Made using ReactJS Typescript, Redux and Real Time FireBase Database",
+  button: 'Works',
+  to: 'https://react-slack-clone-4b014.web.app',
+}

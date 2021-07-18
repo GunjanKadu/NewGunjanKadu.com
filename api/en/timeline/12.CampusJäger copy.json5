@@ -1,0 +1,8 @@
+{
+  label: 'career',
+  date: '2019-09-11',
+  title: 'Front End Developer - Part Time',
+  caption: 'Worked as a Front End Developer at CampusJaeger to create a SPA (www.campusjaeger.de) using React,React-Hooks & Typescript for frontend , Redux for state management with Thunks for API calls and communication with backend and Design Implementation Using Figma, HTML5, SCSS, with proper Containerising the application for Deployment using Docker.',
+  button: 'CampusJäeger',
+  to: 'https://www.campusjaeger.de/',
+}
