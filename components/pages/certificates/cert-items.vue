@@ -19,7 +19,7 @@
             icon,
             large,
             exact,
-            :href='`https://gb.ru/certificates/${f.num}.${$i18n.locale}`',
+            :href='`https://www.coursera.org/account/accomplishments/certificate/${f.num}`',
             target='_blank',
             rel='noopener noreferrer'
           )

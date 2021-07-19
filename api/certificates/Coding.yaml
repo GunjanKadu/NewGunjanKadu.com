@@ -1,0 +1,52 @@
+title: Программирование
+icon: $mdiDevices
+figures:
+  - date: 2020-04-01
+    num: CGN9T2CDSAB5
+    img:
+      src: '/CGN9T2CDSAB5.jpg'
+    caption:
+      ru: Прошел тестирование по «Javascript. Начальный уровень»
+      en: Building Scalable Java Microservices with Spring Boot and Spring Cloud
+  - date: 2020-02-01
+    num: ZS9UL4UV8D59
+    img:
+      src: '/ZS9UL4UV8D59.jpg'
+    caption:
+      ru: Прошел тестирование по «Javascript. Начальный уровень»
+      en: Front End Web Development With Angular 8
+  - date: 2020-01-01
+    num: 9FUVJTHY7DNA
+    img:
+      src: '/9FUVJTHY7DNA.jpg'
+    caption:
+      ru: Прошел тестирование по «Javascript. Начальный уровень»
+      en: Full Stack Web Development with MERN Stack
+  - date: 2019-11-01
+    num: 4HE27MWKK544
+    img:
+      src: '/4HE27MWKK544.jpg'
+    caption:
+      ru: Прошел тестирование по «Javascript. Начальный уровень»
+      en: Multiplatform Mobile App Development with React Native
+  - date: 2019-10-10
+    num: MPDL2TCKMAHZ
+    img:
+      src: '/MPDL2TCKMAHZ.jpg'
+    caption:
+      ru: Прошел тестирование по «Javascript. Начальный уровень»
+      en: Front End Web Development with React
+  - date: 2019-09-01
+    num: CVJAZQN69937
+    img:
+      src: '/CVJAZQN69937.jpg'
+    caption:
+      ru: Прошел тестирование по «Javascript. Начальный уровень»
+      en: Server Side Development with Nodejs,Express and Mongodb
+  - date: 2019-04-01
+    num: 10004
+    img:
+      src: '/10004.jpg'
+    caption:
+      ru: Прошел тестирование по «Javascript. Начальный уровень»
+      en: The Complete JavaScript ES5 & ES6

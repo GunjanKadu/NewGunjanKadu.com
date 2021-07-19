@@ -207,7 +207,7 @@ export default {
     },
     certificates: {
       message:
-        'During my work, I took several tests and online courses in web design, development, marketing and some other areas. Below you can see the certificates of completion.',
+        'During my work, I took several tests and online courses in web design, development, management and some other areas. Below you can see some of my certificates',
     },
     coding: {
       message: [
