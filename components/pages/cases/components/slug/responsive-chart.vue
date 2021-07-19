@@ -54,7 +54,7 @@ export default {
               },
             },
           },
-          labels: ['Оптимизация'],
+          labels: ['Optimization'],
           fill: {
             type: 'solid',
             colors: [

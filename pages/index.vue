@@ -287,7 +287,7 @@ export default {
       `${app.i18n.locale}/cases/design/websites`,
       params.slug
     )
-      .where({ type: { $in: ['des-site'] } })
+      .where({ title: { $in: ['Landing page design "Reddit"'] } })
       .only(['type', 'slug', 'ux', 'img', 'title', 'created'])
       .limit(1)
       .sortBy('created', 'desc')

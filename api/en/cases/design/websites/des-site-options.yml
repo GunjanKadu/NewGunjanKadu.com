@@ -7,7 +7,7 @@ chartOptions:
     zoom:
       enabled: false
   title:
-    text: Website design 2016 - 2021
+    text: Website design 2018 - 2021
     align: left
   foreColor: var(--light)
   grid:
@@ -60,8 +60,6 @@ chartOptions:
     title:
       text: Works
   labels:
-    - 2016
-    - 2017
     - 2018
     - 2019
     - 2020
@@ -102,15 +100,11 @@ chartSeries:
     data:
       - 6
       - 9
-      - 12
-      - 15
-      - 3
-      - 1
+      - 5
+      - 4
   - name: Small orders
     data:
-      - 96
-      - 65
-      - 74
-      - 62
+      - 12
       - 8
-      -
+      - 5
+      - 16

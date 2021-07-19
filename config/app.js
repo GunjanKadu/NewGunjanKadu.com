@@ -15,7 +15,7 @@ export const appMeta = {
         'Open Source Web developer Portfolio on GitHub | Gunjan Kadu · Ui/Ux Designer, Frontend Developer',
       author: {
         name: 'Gunjan Kadu',
-        short: 'sharapov',
+        short: 'Gk',
       },
     },
     share: '/share.jpg',

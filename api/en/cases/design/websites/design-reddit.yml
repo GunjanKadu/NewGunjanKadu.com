@@ -1,0 +1,76 @@
+hide: false
+type: des-site
+title: Landing page design "Reddit"
+img:
+  src: https://cdn.dribbble.com/users/8580830/screenshots/16075324/media/5afed686841de73b9c7b29e34ad95892.png
+  alt: Landing page design "Reddit"
+ux:
+  works: REDESIGN
+  price: Prototyping and design
+created: '2019-11-05'
+period:
+  - '2019-11-04'
+  - '2019-11-10'
+deadline: The task took about approximately 5 days to complete.
+preview:
+  tools:
+    - title: Design
+      tags:
+        - Figma
+        - Adobe Illustrator
+  roles:
+    - title: My
+      tags:
+        - Ux/Ui Designer / Visual Designer
+  to:
+    dribbble: https://dribbble.com/shots/7971597-Forest-Fi-unlimited-free-internet-worldwide
+    behance: https://www.behance.net/gallery/87728433/Wi-Fi-Free-in-Every-Tree
+    instagram: https://www.instagram.com/p/B4dTsxIAc1E/
+client:
+  logoJPG:
+  logoWEBP:
+  head: Landing page redesign "Reddit"
+  description: Firstly, I must tell you reddit is a massive collection of forums where people can share news and content or comment on others. Now a days we have lot many social platforms to import and export the knowledge. As a explorer, I enjoy scolling reddit as compare to other social media platforms. I wanted to learn the basic and for most important things while designing any social media platform. I researched about the positioning of the icons in reddit because reddit website is filled with lot many icons if we observe. In designing positioning performs very crucial role in the product. I search about the user's thinking and usability by comparing other platforms (facebook, instagram, and many more).
+  issues:
+  task:
+    - in attempt to redesign an existing app in a better way
+done:
+  img:
+    src: B4dTsxIAc1E
+    alt: Landing page design "Reddit"
+    height:
+  alert:
+    message:
+  list:
+    - redesign planning and development of the conceptual component;
+    - notice the positions of all the icons and importance of them in front (every icon specified in front has its own reason and comfort to users)
+    - 'analysis, review of other redesign: functionality, number of users, ratings, reviews;'
+    - formation of a palette of colors, typography, and element states;
+    - development of prototypes of the design layout;
+    - design and user interface (UI) development.
+palette:
+  - type: ''
+    hex:
+      - ff4400
+      - fff4f0
+  - type: ''
+    hex:
+      - 353d43
+      - 41474e
+  - type: ''
+    hex:
+      - 23292e
+      - 2f373d
+  - type: ''
+    hex:
+      - FFFFFF
+typography:
+  fonts: "<link href='https://fonts.googleapis.com/css2?family=futura&family=Raleway&display=swap' rel='stylesheet'>"
+  headline: Raleway
+  text: Futura
+grid:
+  cols: 12
+  width: 65
+  size: 1140
+responsive:
+  percent: '100'

@@ -185,22 +185,22 @@
                 <!-- /SECTION -->
 
                 <!-- SECTION TESTIMONIALS -->
-                <template v-if="website.testimonials">
+                <!-- <template v-if="website.testimonials">
                   <s-pages-cases-components-slug-components-section-sub-title
                     :title="$t('pages.cases.slug.testimonials')"
                   />
                   <s-pages-cases-components-slug-testimonials :info="website" />
-                </template>
+                </template> -->
                 <!-- /SECTION -->
               </v-card>
             </v-col>
 
             <!-- COMPONENT COMMENTS -->
-            <v-col cols="12">
+            <!-- <v-col cols="12">
               <s-pages-cases-components-slug-components-leave-comments
                 :comment="website.preview.to"
               />
-            </v-col>
+            </v-col> -->
             <!-- /COMPONENT -->
           </v-row>
         </v-col>

@@ -172,7 +172,7 @@ export default {
         {
           img: { src: '/src/skills/ps.svg' },
           title: 'Photoshop',
-          percent: '8',
+          percent: '2',
         },
         {
           img: { src: '/src/skills/figma.svg' },

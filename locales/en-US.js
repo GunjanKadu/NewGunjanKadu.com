@@ -96,7 +96,7 @@ export default {
   },
   author: {
     title: 'Author | author',
-    name: 'Gunjan Kadu',
+    name: 'gunjankadu.com',
     position: ['Full Stack Developer', 'UI/UX Designer'],
     job: {
       status: `${config.author.job.status}`,
