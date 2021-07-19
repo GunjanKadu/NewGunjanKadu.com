@@ -7,39 +7,54 @@ data:
       - Kanban
     color: info
     icon: $mdiAccountGroup
-  - alt: Design
+  - alt: Languages
     set:
-      - Figma
-      - Google Web Designer
-      - Ai
-      - Ps
-      - CorelDRAW
-    color: indigo
-    icon: $mdiPalette
-  - alt: Website Builder
-    set:
-      - Nuxt.js
-      - Vue CLI
-      - Gulp
-      - VuePress
-    color: teal
-    icon: $mdiNuxt
-  - alt: VC
-    set:
-      - GIT
-    color: red
-    icon: $mdiGit
-  - alt: PHP
-    set:
-      - WordPress
-    color: deep-purple
-    icon: $mdiLanguagePhp
-  - alt: JavaScript
-    set:
-      - ES6
-      - Babel
+      - Java
+      - Javascript
+      - Typescript
+      - C#
     color: amber
     icon: $mdiCodeJson
+  - alt: Frameworks
+    set:
+      - React JS
+      - React Native
+      - Angular
+      - Node JS
+      - Express JS
+      - SpringBoot
+      - Bootstrap 4
+      - Tailwind CSS
+    color: green
+    icon: $mdiVuetify
+  - alt: State Management
+    set:
+      - Redux
+      - Mobx
+      - RXJS-Subjects
+    color: red
+    icon: $mdiStateMachine
+  - alt: Databases
+    set:
+      - MSSQL
+      - Mongo DB
+    color: cyan
+    icon: $mdiDatabase
+  - alt: Cloud
+    set:
+      - Microsoft Azure
+      - Google Cloud Platform
+      - Heroku
+      - Docker
+    color: pink
+    icon: $mdiAppleIcloud
+  - alt: CICD
+    set:
+      - Azure Devops
+      - Circle CI
+      - Gitlabs
+    color: orange
+    icon: $mdiMicrosoftAzureDevops
   - alt: HTML
     set:
       - HTML5
@@ -55,42 +70,40 @@ data:
       - PostCSS
     color: blue
     icon: $mdiLanguageCss3
-  - alt: Libraries
+  - alt: Design
     set:
-      - jQuery
-      - Vuetify
-    color: cyan
-    icon: $mdiVuetify
-  - alt: Frameworks
+      - Figma
+      - Adobe xD
+      - CorelDRAW
+    color: indigo
+    icon: $mdiPalette
+  - alt: Website Builder
     set:
-      - Bootstrap 4
-      - Vue.js
-      - Tailwind CSS
-    color: green
-    icon: $mdiVuejs
+      - Nuxt.js
+      - Gulp
+    color: teal
+    icon: $mdiNuxt
+  - alt: VC
+    set:
+      - GIT
+    color: red
+    icon: $mdiGit
   - alt: Web analytics
     set:
-      - Я.Метрика
-      - Я.Вебмастер
-      - GTM
+      - Hotjar
       - Google Analytics
     color: deep-orange
     icon: $mdiGoogleAnalytics
   - alt: IDE
     set:
-      - Notepad ++
-      - Sublime Text
       - Visual Studio Code
+      - Eclipse
+      - Intellij
     color: light-blue
     icon: $mdiMicrosoftVisualStudioCode
   - alt: CMS
     set:
       - WordPress
-      - Tilda
-      - Joomla!
-      - 1C Bitrix
       - WIX
-      - uKit
-      - uCoz
     color: brown
     icon: $mdiWordpress

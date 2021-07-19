@@ -67,6 +67,10 @@ import {
   mdiGoogleAnalytics,
   mdiMicrosoftVisualStudioCode,
   mdiWordpress,
+  mdiDatabase,
+  mdiStateMachine,
+  mdiAppleIcloud,
+  mdiMicrosoftAzureDevops,
 } from '@mdi/js'
 
 export default function ({ app }) {
@@ -203,6 +207,10 @@ export default function ({ app }) {
         mdiGoogleAnalytics,
         mdiMicrosoftVisualStudioCode,
         mdiWordpress,
+        mdiDatabase,
+        mdiStateMachine,
+        mdiAppleIcloud,
+        mdiMicrosoftAzureDevops,
       },
     },
   }

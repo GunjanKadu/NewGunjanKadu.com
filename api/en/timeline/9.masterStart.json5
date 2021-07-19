@@ -1,7 +1,7 @@
 {
   label: 'career',
   date: '2019-03-15',
-  title: "Master's in Computer Science",
+  title: "Started Master's in Computer Science",
   caption: "Started my master's in Computer Science from Heidelberg University, Germany",
   button: 'Heidelberg University',
   to: 'https://www.hochschule-heidelberg.de/',
