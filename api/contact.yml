@@ -1,23 +1,23 @@
 contacts:
-  - content: an.sharapov90@gmail.com
+  - content: agunjan.kadu@gmail.com
     icon: $mdiEmail
-    note: an.sharapov90@ya.ru
+    note: gunjankadu.com
     title: Email
-  - content: '+7 (964) 788-27-38'
+  - content: '+49 (01764) 768-81-84'
     icon: $mdiPhone
-    note: '10:00-18:00 (GMT+3) MSK'
+    note: '(GMT+2) Germany'
     title: Phone
-  - content: '+7 (964) 788-27-38'
+  - content: '+49 (01764) 768-81-84'
     icon: $mdiWhatsapp
     title: WhatsApp
-  - content: '@andrejsharapov'
+  - content: '@gunjankadu'
     icon: $mdiTelegram
     title: Telegram
-  - content: andrejsharapov#0036
+  - content: Gunjan#7811
     icon: $mdiDiscord
     note:
     title: Discord
-  - content: Andrej Sharapov
+  - content: Gunjan Kadu
     icon: $mdiSkype
-    note: 'live:9c920983b0fe9b8e_1'
+    note: 'live:agunjan.kadu'
     title: Skype
