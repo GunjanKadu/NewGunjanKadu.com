@@ -49,13 +49,13 @@ export default {
     treeShake: true,
   },
   head: {
-    title: appMeta.app.ru.title,
+    title: appMeta.app.en.title,
     meta: [
       {
         hid: 'title',
         name: 'title',
         property: 'title',
-        content: appMeta.app.ru.title,
+        content: appMeta.app.en.title,
       },
       {
         hid: 'twitter:title',
@@ -95,7 +95,7 @@ export default {
       onlyOnRoot: true,
     },
     vueI18n: {
-      fallbackLocale: 'ru',
+      fallbackLocale: 'en',
     },
     seo: true,
     baseUrl: `${appMeta.host.url}`,

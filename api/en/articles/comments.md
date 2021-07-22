@@ -14,7 +14,7 @@ source:
 
 author:
   name: Gunjan Kadu
-  bio: UI/UX Designer, Frontend Developer
+  bio: UX/UI Designer, Frontend Developer
   img:
     src:
     alt:

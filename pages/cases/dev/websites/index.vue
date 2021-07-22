@@ -167,7 +167,7 @@ export default {
       .where({ type: 'dev-site', hide: false })
       .sortBy('created', 'desc')
       .fetch()
-
+    console.log(devSiteLocale)
     return {
       skills,
       chart,

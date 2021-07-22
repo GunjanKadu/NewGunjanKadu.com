@@ -14,12 +14,16 @@
         template(v-if='info.cms')
           template(v-for='(cms, i) in cmsSplit')
             v-card-subtitle.pl-0.pt-4.text-center.text-sm-left(:key='i')
-              strong CMS:
-              |
-              | {{ cms.from }}
+              strong Git Link
               template(v-if='cms.to')
                 v-icon.mx-2(small, color='accent') {{mdiChevronRight}}
                 | {{ cms.to }}
+
+            v-card-subtitle.pl-0.pt-4.text-center.text-sm-left(:key='i+1')
+              strong Live At
+              template(v-if='cms.from')
+                v-icon.mx-2(small, color='accent') {{mdiChevronRight}}
+                | {{ cms.from }}
 
         //- RESIZE (Banners)
         template(v-if='info.resize')

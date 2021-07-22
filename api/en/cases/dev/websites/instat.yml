@@ -1,0 +1,141 @@
+hide: false
+type: dev-site
+title: Instat
+img:
+  src: /src/web/demoInstat.gif
+  alt: Instat
+ux:
+  works: DATA STRUCTURES / ALGORITHMS
+  price: Logic
+created: '2020-07-11'
+period:
+  - '2020-07-11'
+  - '2020-08-23'
+deadline: It took 1.5 weeks to complete the task.
+preview:
+  tools:
+    - title: Design
+      tags:
+        - Figma
+    - title: Standard
+      tags:
+        - Data Structures
+        - Algorithms
+        - HTML5
+        - CSS3
+        - JavaScript
+    - title: Framework
+      tags:
+        - React.js
+    - title: Software
+      tags:
+        - Visual Studio Code
+        - SASS/SCSS
+        - Git
+  roles:
+    - title: My
+      tags:
+        - UI/UX Designer
+        - Frontend Developer
+
+client:
+  logoJPG: null
+  logoWEBP: null
+  head: Instat
+  description: For this project I myself was the client.
+  issues: Visualizing the way different path finding algorithms is a bit difficult without visual representation.
+  task:
+    - Visualize the following algorithm
+    - Dijkstra's Algorithm
+    - Bellman Ford Algorithm
+    - Breadth First Search
+    - Depth First Search
+done:
+  img:
+    src: B4mpQoNA2Dm
+    alt: Redesign of the site of LLC "RIC"
+    height:
+  alert:
+    message:
+  list:
+    - analysing each algorithm;
+    - manually drawing the path and visualizing the path from each algorithm;
+    - creating a relevance map;
+    - development of prototypes of the design layout;
+    - development of the concept of content-filling the site;
+    - formation of a palette of colors and development of a Style Guide;
+    - development of design and user interface (UI);
+    - formation of dependencies of different elements of the site;
+    # - layout of the site using the Mobile First method and filling with the provided content;
+    # - development of an original and functional 404 error page;
+    # - development of scripts for calculating the cost of analyzes on service pages;
+    - implementing the algorithms using JS;
+    - adding animations to the visualization;
+    # - analysis of the correct display of the site in different browsers;
+    # - analysis of the correct display of the site on modern mobile devices;
+    # - launching and connecting end-to-end website analytics, tracking its effectiveness.
+    - lauching and testing the work.
+palette:
+  - type: ''
+    hex:
+      - 339af0
+      - FFFFFF
+  - type: ''
+    hex:
+      - 5c7cfa
+      - FFFFFF
+  - type: ''
+    hex:
+      - 40c057
+      - FFFFFF
+  - type: ''
+    hex:
+      - fd5858
+      - FFFFFF
+typography:
+  fonts: "<link href='https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu&display=swap' rel='stylesheet'>"
+  headline: Ubuntu
+  text: Roboto
+grid:
+  cols: 12
+  width: 68
+  size: 1140
+responsive:
+  percent: '100'
+  dash:
+    Performance: '95'
+    Accessibility: '80'
+    Practices: '90'
+    DS&A: '92'
+cms: Joomla!, Static site
+testimonials:
+  author:
+    img:
+      src: ''
+      alt: ''
+    name: Abdul Karaagac
+    company: ABB Reasearch Center, Ladeburg
+    link: http://abb.de/
+    position: Laboratory manager
+  message: We needed a one-page site where visitors could learn about us, our services, and, if necessary, contact us. We have other sites where there are also sections describing tests, but there are 25-40% more incoming calls to similar services from the laboratory's new website.
+analytics:
+  result: the conversion rate was 13%.
+  traffic:
+    show: false
+    title: Search traffic
+    type: bar
+    series:
+      - name: ''
+        data:
+      - name: Start
+        data:
+  goals:
+    show: false
+    title: Achievement of the goal
+    chart:
+      series:
+      labels:
+  conversion:
+    show: true
+    title: Conversion
+    value: ['13']

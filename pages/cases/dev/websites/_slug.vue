@@ -37,6 +37,9 @@
                 <h2 class="mt-5 mb-5 text-md-h5 text-lg-h4 font-weight-bold">
                   01. {{ $t('pages.cases.slug.headings.sections[0]') }}
                 </h2>
+                <h2 class="mt-5 mb-5 text-md-h5 text-lg-h4 font-weight-bold">
+                  01. {{ $t('pages.cases.slug.headings.sections[0]') }}
+                </h2>
                 <!-- COMPONENT CLIENT -->
                 <v-row>
                   <v-col cols="12">
@@ -208,11 +211,11 @@
             </v-col>
 
             <!-- COMPONENT COMMENTS -->
-            <v-col cols="12">
+            <!-- <v-col cols="12">
               <s-pages-cases-components-slug-components-leave-comments
                 :comment="website.preview.to"
               />
-            </v-col>
+            </v-col> -->
             <!-- /COMPONENT -->
           </v-row>
         </v-col>
