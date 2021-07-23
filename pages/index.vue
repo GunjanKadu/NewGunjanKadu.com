@@ -370,7 +370,7 @@ export default {
     },
     localeCases() {
       return this.desSiteLocale || this.devSiteLocale
-        ? this.desSiteLocale.concat(this.devSiteLocale)
+        ? this.devSiteLocale.concat(this.desSiteLocale)
         : []
     },
   },

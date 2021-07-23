@@ -303,7 +303,7 @@ export default {
         },
         works: {
           message:
-            'In March 2019, I switched from developing {from} layouts in {to}, where I am now prototyping and designing websites and applications. Check out some of my work in the portfolio.',
+            'In March 2019, I also started designing layouts in {to}, while now I am prototyping, designing and developing complete websites and applications thus making a full stack developer. Check out some of my work in the portfolio.',
         },
       },
     },

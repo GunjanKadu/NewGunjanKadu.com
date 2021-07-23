@@ -37,9 +37,6 @@
                 <h2 class="mt-5 mb-5 text-md-h5 text-lg-h4 font-weight-bold">
                   01. {{ $t('pages.cases.slug.headings.sections[0]') }}
                 </h2>
-                <h2 class="mt-5 mb-5 text-md-h5 text-lg-h4 font-weight-bold">
-                  01. {{ $t('pages.cases.slug.headings.sections[0]') }}
-                </h2>
                 <!-- COMPONENT CLIENT -->
                 <v-row>
                   <v-col cols="12">

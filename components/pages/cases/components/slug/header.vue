@@ -13,17 +13,20 @@
         //- CMS (Web dev)
         template(v-if='info.cms')
           template(v-for='(cms, i) in cmsSplit')
-            v-card-subtitle.pl-0.pt-4.text-center.text-sm-left(:key='i')
-              strong Git Link
-              template(v-if='cms.to')
-                v-icon.mx-2(small, color='accent') {{mdiChevronRight}}
-                | {{ cms.to }}
+            template(v-if='i==0')
+              v-card-subtitle.pl-0.pt-4.text-center.text-sm-left(:key='i')
+                strong   Git Link
+                template(v-if='cms.to')
+                  v-icon.mx-2(small, color='accent') {{mdiChevronRight}}
+                  | 
+                  a(:href="cms.to") {{info.title}}.git
 
-            v-card-subtitle.pl-0.pt-4.text-center.text-sm-left(:key='i+1')
-              strong Live At
-              template(v-if='cms.from')
-                v-icon.mx-2(small, color='accent') {{mdiChevronRight}}
-                | {{ cms.from }}
+              v-card-subtitle.pl-0.pt-4.text-center.text-sm-left(:key='i+Math.random()')
+                strong Live At
+                template(v-if='cms.from')
+                  v-icon.mx-2(small, color='accent') {{mdiChevronRight}}
+                  | 
+                  a(:href="cms.from") {{info.title}}.com
 
         //- RESIZE (Banners)
         template(v-if='info.resize')

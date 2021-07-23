@@ -11,7 +11,7 @@ created: '2020-07-11'
 period:
   - '2020-07-11'
   - '2020-08-23'
-deadline: It took 1.5 weeks to complete the task.
+deadline: It took 1.5 month to complete the task.
 preview:
   tools:
     - title: Design
@@ -24,6 +24,7 @@ preview:
         - HTML5
         - CSS3
         - JavaScript
+        - TypeScript
     - title: Framework
       tags:
         - React.js
@@ -42,7 +43,7 @@ client:
   logoJPG: null
   logoWEBP: null
   head: Path Finding Visualizer
-  description: For this project I myself was the client.
+  description: This project was built to explain which path finding algorithms best suits the need in one of our research tasks.
   issues: Visualizing the way different path finding algorithms is a bit difficult without visual representation.
   task:
     - Visualize the following algorithm
@@ -107,7 +108,7 @@ responsive:
     Accessibility: '80'
     Practices: '90'
     DS&A: '92'
-cms: 'https://github.com/GunjanKadu/PathFindingVisualizer,https://gunjankadu.github.io/PathFindingVisualizer/'
+cms: 'https://gunjankadu.github.io/PathFindingVisualizer/,https://github.com/GunjanKadu/PathFindingVisualizer;'
 testimonials:
   author:
     img:
@@ -116,8 +117,8 @@ testimonials:
     name: Abdul Karaagac
     company: ABB Reasearch Center, Ladeburg
     link: http://abb.de/
-    position: Laboratory manager
-  message: We needed a one-page site where visitors could learn about us, our services, and, if necessary, contact us. We have other sites where there are also sections describing tests, but there are 25-40% more incoming calls to similar services from the laboratory's new website.
+    position: Supervisor
+  message: We were immensely happy with the project as met the standard of our reasearch center and convincing our fellow teammates in choosing the write algorithm for the upcoming research. The project also includes some more self made path finding algorithm which cannot be publicized but are worth mentioning
 analytics:
   result: the conversion rate was 13%.
   traffic:
