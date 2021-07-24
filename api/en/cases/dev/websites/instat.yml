@@ -43,7 +43,7 @@ preview:
     - title: My
       tags:
         - UI/UX Designer
-        - Frontend Developer
+        - Full stack Developer
 
 client:
   logoJPG: null
@@ -128,14 +128,50 @@ cms: 'https://react-slack-clone-4b014.web.app/,https://github.com/GunjanKadu/Ins
 analytics:
   result: the conversion rate was 16%.
   traffic:
-    show: false
+    show: true
     title: Search traffic
     type: bar
     series:
       - name: ''
         data:
+          - 35
+          - 40
+          - 50
+          - 45
+          - 45
+          - 35
+          - 40
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
       - name: Start
         data:
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - 70
+          - 90
+          - 95
+          - 110
+          - 95
+          - 115
+          - 100
+          - 125
+          - 120
+          - 110
+          - 90
   goals:
     show: false
     title: Achievement of the goal

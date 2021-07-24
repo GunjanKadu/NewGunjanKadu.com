@@ -19,7 +19,7 @@ export const appMeta = {
       },
     },
     share: '/share.jpg',
-    short: 'sharapov-dev',
+    short: 'gunjankadu.com',
     twitter: '@andrejsharapov',
   },
   host: {

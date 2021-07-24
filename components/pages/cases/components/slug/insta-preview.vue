@@ -3,7 +3,7 @@ v-card.case-insta-preview.shadow-lg
   v-card(
     flat,
     v-if='preview.done.img !== null',
-    :height='preview.done.img.height ? preview.done.img.height : $vuetify.breakpoint.sm ? "550" : $vuetify.breakpoint.md ? "430" : $vuetify.breakpoint.lgAndUp ? "515" : "360"'
+    :height='preview.done.img.height ? preview.done.img.height : $vuetify.breakpoint.sm ? "300" : $vuetify.breakpoint.md ? "300" : $vuetify.breakpoint.lgAndUp ? "300" : "200"'
   )
     img(:src='preview.img.src',
       width='100%',height='auto')

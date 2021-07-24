@@ -1,0 +1,171 @@
+hide: false
+type: dev-site
+title: campusJäger
+img:
+  src: /src/web/democampusjaeger.gif
+  alt: campusJäger
+ux:
+  works: JOB Portal
+  price: Complex Matching Market Place
+created: '2019-10-01'
+period:
+  - '2019-10-01'
+  - '2020-03-01'
+deadline: It took around 4 months to complete the task.
+preview:
+  tools:
+    - title: Design
+      tags:
+        - Figma
+    - title: Standard
+      tags:
+        - Data Structures
+        - Algorithms
+        - HTML5
+        - CSS3
+        - JavaScript
+        - TypeScript
+    - title: Front End
+      tags:
+        - React.js
+        - Story Book
+    - title: Backend
+      tags:
+        - MySql
+        - pHp
+    - title: Software
+      tags:
+        - Visual Studio Code
+        - SASS/SCSS
+        - Gitlab
+    - title: Others
+      tags:
+        - Redux
+        - Mobx
+        - Full Story
+  roles:
+    - title: My
+      tags:
+        - Full stack Developer
+
+client:
+  logoJPG: null
+  logoWEBP: null
+  head: campusJäger
+  description: This project was a task at my part time where I needed to build a Job Searching and Matching Platform
+  issues: Implenting a easy to use Job Searching platform with complete transparency
+  task:
+    - User Authentication SignUp/Signin
+    - Create Your profile, Information, Resumes
+    - Search For different jobs
+    - Apply for different jobs
+    - Apply for jobs in real time with real time notifications
+    - Create diverse filter assisting the jobs search from applicants
+    - Apply with just a few clicks
+    - Receive notification with each step of application
+done:
+  img:
+    src: B4mpQoNA2Dm
+    alt: campusJäger
+    height:
+  alert:
+    message:
+  list:
+    - creating a relevance map;
+    - development of prototypes of the design layout;
+    - development of the concept of content-filling the site;
+    - formation of a palette of colors and development of a Style Guide;
+    - development of design and user interface (UI);
+    - formation of dependencies of different elements of the site;
+    - layout of the site using the Mobile First method and filling with the provided content;
+    # - development of an original and functional 404 error page;
+    # - development of scripts for calculating the cost of analyzes on service pages;
+    - implementing the logic;
+    - analysis of the correct display of the site in different browsers;
+    - analysis of the correct display of the site on modern mobile devices;
+    - launching and connecting end-to-end website analytics, tracking its effectiveness.
+    - lauching and testing the work.
+palette:
+  - type: ''
+    hex:
+      - d81b5d
+      - FFFFFF
+  - type: ''
+    hex:
+      - 455a64
+      - FFFFFF
+
+typography:
+  fonts: "<link href='https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu&display=swap' rel='stylesheet'>"
+  headline: Ubuntu
+  text: Roboto
+grid:
+  cols: 12
+  width: 68
+  size: 1140
+responsive:
+  percent: '100'
+  dash:
+    Performance: '95'
+    Accessibility: '85'
+    Transparency: '90'
+    JobApplications: '100'
+cms: 'https://www.campusjaeger.de/,;'
+
+analytics:
+  result: the conversion rate was 16%.
+  traffic:
+    show: true
+    title: Search traffic
+    type: bar
+    series:
+      - name: ''
+        data:
+          - 35
+          - 40
+          - 50
+          - 45
+          - 45
+          - 35
+          - 40
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+      - name: Start
+        data:
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - 70
+          - 90
+          - 95
+          - 110
+          - 95
+          - 115
+          - 100
+          - 125
+          - 120
+          - 110
+          - 90
+  goals:
+    show: false
+    title: Achievement of the goal
+    chart:
+      series:
+      labels:
+  conversion:
+    show: true
+    title: Conversion
+    value: ['12']
