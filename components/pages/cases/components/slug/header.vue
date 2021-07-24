@@ -14,19 +14,19 @@
         template(v-if='info.cms')
           template(v-for='(cms, i) in cmsSplit')
             template(v-if='i==0')
-              v-card-subtitle.pl-0.pt-4.text-center.text-sm-left(:key='i')
-                strong   Git Link
-                template(v-if='cms.to')
-                  v-icon.mx-2(small, color='accent') {{mdiChevronRight}}
-                  | 
-                  a(:href="cms.to") {{info.title}}.git
+              template(v-if='cms.to.length>5')
+                v-card-subtitle.pl-0.pt-4.text-center.text-sm-left(:key='i')
+                  strong   Git Link
+                    v-icon.mx-2(small, color='accent') {{mdiChevronRight}}
+                    | 
+                    a(:href="cms.to") {{info.title}}.git
 
-              v-card-subtitle.pl-0.pt-4.text-center.text-sm-left(:key='i+Math.random()')
-                strong Live At
-                template(v-if='cms.from')
-                  v-icon.mx-2(small, color='accent') {{mdiChevronRight}}
-                  | 
-                  a(:href="cms.from") {{info.title}}.com
+              template(v-if='cms.from.length>5')
+                v-card-subtitle.pl-0.pt-4.text-center.text-sm-left(:key='i+Math.random()')
+                  strong Live At
+                    v-icon.mx-2(small, color='accent') {{mdiChevronRight}}
+                    | 
+                    a(:href="cms.from") {{info.title}}.com
 
         //- RESIZE (Banners)
         template(v-if='info.resize')
