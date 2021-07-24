@@ -284,10 +284,10 @@ export default {
       .fetch()
 
     const desSiteLocale = await $content(
-      `${app.i18n.locale}/cases/design/websites`,
+      `${app.i18n.locale}/cases/dev/websites`,
       params.slug
     )
-      .where({ title: { $in: ['Landing page design "Reddit"'] } })
+      .where({ title: { $in: ['campusJäger'] } })
       .only(['type', 'slug', 'ux', 'img', 'title', 'created'])
       .limit(1)
       .sortBy('created', 'desc')
@@ -297,7 +297,7 @@ export default {
       `${app.i18n.locale}/cases/dev/websites`,
       params.slug
     )
-      .where({ type: { $in: ['dev-site'] } })
+      .where({ title: { $in: ['Path Finding Visualizer'] } })
       .only(['type', 'slug', 'ux', 'img', 'title', 'created'])
       .limit(1)
       .sortBy('created', 'desc')
