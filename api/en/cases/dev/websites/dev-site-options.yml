@@ -16,10 +16,10 @@ chartOptions:
         zoomin: false
         zoomout: false
   title:
-    text: Website development 2010 - 2021
+    text: Website development 2018 - 2021
     align: left
   subtitle:
-    text: 'Experience with site content management systems'
+    text: 'Experience with building full stack web applications'
   foreColor: var(--light)
   grid:
     show: true
@@ -98,14 +98,6 @@ chartOptions:
     - '#207196'
     - '#00c58e'
   labels:
-    - 2010
-    - 2011
-    - 2012
-    - 2013
-    - 2014
-    - 2015
-    - 2016
-    - 2017
     - 2018
     - 2019
     - 2020
@@ -141,138 +133,57 @@ plotOptions:
   bar:
     horizontal: true
 chartSeries:
-  - name: Static site
+  - name: Javascript
     data:
-      - null
-      - 2
-      - 1
-      - 5
       - 12
       - 6
       - 4
       - 3
-      - 5
-      - 5
-      - 2
-      - null
-      - null
-  - name: uCoz
+  - name: Java
     data:
       - 2
       - 3
+      - 4
+      - 3
+  - name: C#
+    data:
+      - null
+      - 3
+      - 2
+      - null
+  - name: SpringBoot
+    data:
+      - 2
+      - 3
+      - 1
+      - null
+  - name: Angular
+    data:
+      - null
+      - null
+      - 5
       - 8
+  - name: React
+    data:
+      - 2
       - 4
-      - null
-      - null
-      - null
-      - null
-      - null
-      - null
-      - null
-      - null
-      - null
-  - name: uKit
+      - 7
+      - 5
+  - name: React Native
     data:
       - null
-      - null
-      - null
+      - 1
+      - 2
+      - 1
+  - name: Node JS
+    data:
+      - 5
+      - 10
+      - 5
+      - 12
+  - name: Microservices
+    data:
       - null
       - null
       - 3
-      - 2
-      - null
-      - null
-      - null
-      - null
-      - null
-      - null
-  - name: WIX
-    data:
-      - null
-      - null
-      - 1
-      - null
       - 4
-      - null
-      - null
-      - null
-      - null
-      - null
-      - null
-      - null
-      - null
-  - name: Joomla!
-    data:
-      - null
-      - null
-      - null
-      - null
-      - 2
-      - null
-      - 1
-      - null
-      - 1
-      - null
-      - null
-      - null
-      - null
-  - name: 1C Bitrix
-    data:
-      - null
-      - null
-      - null
-      - null
-      - null
-      - null
-      - 1
-      - null
-      - 1
-      - null
-      - null
-      - null
-      - null
-  - name: Tilda
-    data:
-      - null
-      - null
-      - null
-      - null
-      - null
-      - null
-      - null
-      - 1
-      - null
-      - null
-      - null
-      - null
-      - null
-  - name: WordPress
-    data:
-      - null
-      - null
-      - null
-      - null
-      - null
-      - null
-      - 2
-      - null
-      - 3
-      - 1
-      - null
-      - null
-      - null
-  - name: Nuxt
-    data:
-      - null
-      - null
-      - null
-      - null
-      - null
-      - null
-      - null
-      - null
-      - null
-      - null
-      - 1
-      - 1
-      - null

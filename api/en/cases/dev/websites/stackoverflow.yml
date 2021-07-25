@@ -1,0 +1,186 @@
+hide: false
+type: dev-site
+title: StackOverflow
+img:
+  src: /src/web/demoStackOverflow.gif
+  alt: StackOverflow
+ux:
+  works: FULL STACK / REAL TIME
+  price: Developer Community
+created: '2020-09-01'
+period:
+  - '2020-09-01'
+  - '2021-02-01'
+deadline: It took 5 months to complete the task.
+preview:
+  tools:
+    - title: Design
+      tags:
+        - Figma
+    - title: Standard
+      tags:
+        - Data Structures
+        - Algorithms
+        - HTML5
+        - CSS3
+        - JavaScript
+        - TypeScript
+    - title: FrontEnd
+      tags:
+        - React.js
+        - Electron.js
+    - title: Backend
+      tags:
+        - NodeJs
+        - Express
+        - MongoDB
+        - Mongoose
+    - title: Software
+      tags:
+        - Visual Studio Code
+        - SASS/SCSS
+        - Git
+    - title: Others
+      tags:
+        - Next JS
+        - Storybook
+        - Post CSS
+  roles:
+    - title: My
+      tags:
+        - UI/UX Designer
+        - Full stack Developer
+client:
+  logoJPG: null
+  logoWEBP: null
+  head: StackOverflow
+  description: This project was built out of curiosity to replicate the famous stack overflow application
+  issues: Replication a famous developers community platform
+  task:
+    - User Authentication SignUp/Signin
+    - Create Different Posts
+    - Comment on Different Post in Real time
+    - Comment privately or in the group
+    - Send Real Time Comments
+    - Upload Question in real time
+    - Search for a Particular post
+    - Search tag wise
+    - Search for top users.
+    - Star a post
+    - Analytics such as top user in the community and Top replies
+    - Theme picker for users to choose different themes for the application
+    - Edit User image crop,resize
+    - Emoji Support
+done:
+  img:
+    src: B4mpQoNA2Dm
+    alt: StackOverflow
+    height:
+  alert:
+    message:
+  list:
+    - creating a relevance map;
+    - development of prototypes of the design layout;
+    - development of the concept of content-filling the site;
+    - formation of a palette of colors and development of a Style Guide;
+    - development of design and user interface (UI);
+    - formation of dependencies of different elements of the site;
+    - layout of the site using the Mobile First method and filling with the provided content;
+    # - development of an original and functional 404 error page;
+    # - development of scripts for calculating the cost of analyzes on service pages;
+    - implementing the logic;
+    - adding animations to the logics;
+    - analysis of the correct display of the site in different browsers;
+    - analysis of the correct display of the site on modern mobile devices;
+    - launching and connecting end-to-end website analytics, tracking its effectiveness.
+    - lauching and testing the work.
+palette:
+  - type: ''
+    hex:
+      - f2711c
+      - e76c1b
+  - type: ''
+    hex:
+      - 00ada5
+      - 00b5ad
+  - type: ''
+    hex:
+      - 3a133e
+      - 1b1c1d
+  - type: ''
+    hex:
+      - 3a133e
+      - FFFFFF
+typography:
+  fonts: "<link href='https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu&display=swap' rel='stylesheet'>"
+  headline: Ubuntu
+  text: Roboto
+grid:
+  cols: 12
+  width: 68
+  size: 1140
+responsive:
+  percent: '100'
+  dash:
+    Performance: '95'
+    Accessibility: '85'
+    Practices: '90'
+    RealTime: '100'
+cms: 'https://stack-over-flow-final-gunjankadu.vercel.app/,https://github.com/GunjanKadu/StackOverFlowFinal;'
+analytics:
+  result: the conversion rate was 16%.
+  traffic:
+    show: true
+    title: Search traffic
+    type: bar
+    series:
+      - name: ''
+        data:
+          - 35
+          - 40
+          - 50
+          - 45
+          - 45
+          - 35
+          - 40
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+      - name: Start
+        data:
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - null
+          - 70
+          - 90
+          - 95
+          - 110
+          - 95
+          - 115
+          - 100
+          - 125
+          - 120
+          - 110
+          - 90
+  goals:
+    show: false
+    title: Achievement of the goal
+    chart:
+      series:
+      labels:
+  conversion:
+    show: true
+    title: Conversion
+    value: ['16']

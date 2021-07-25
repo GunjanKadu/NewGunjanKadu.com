@@ -1,0 +1,104 @@
+hide: false
+type: dev-site
+title: Smice (Smart Choice)
+img:
+  src: /src/web/demoSmice.gif
+  alt: Smice (Smart Choice)
+ux:
+  works: DESKTOP APPLICATION
+  price: Career
+created: '2020-05-01'
+period:
+  - '2020-05-01'
+  - '2020-06-01'
+deadline: It took 1 month to complete the task.
+preview:
+  tools:
+    - title: Design
+      tags:
+        - Adobe XD
+    - title: Standard
+      tags:
+        - Data Structures
+        - Algorithms
+        - C#
+        - XAML
+    - title: Framework
+      tags:
+        - Windows Presentation Foundation (WPF)
+    - title: Software
+      tags:
+        - Visual Studio
+        - Git
+  roles:
+    - title: My
+      tags:
+        - Developer
+
+client:
+  logoJPG: null
+  logoWEBP: null
+  head: Smice (Smart Choice)
+  description: This project was built as one of my project work. SMICE is a Application or Platform where all learning or education enthusiasts who are confused about which path to choose for their career, or the path which is suitable for their skillsets will be addressed.
+  issues: Implenting a learning and career discovering app
+  task:
+    - A Variety of Courses to read with detailed explanation of each of the subject in the particular course.
+    - A Clean UI explaining the workflow of the application.
+    - An Questionnaire for the user to answer.
+    - Supports i18n with English and German Language.
+    - Ability to Save the Current Session of the User and then resume if something goes’s wrong.
+    - Navigating Between Questions and Answers.
+    - Editing Previously Answered Questions.
+    - A Summary Showing all the answered Questions and Answers.
+    - Details of the Recommended Course with the Universities offering those courses.
+    - Eligibility of the jobs after taking the recommended Courses.
+done:
+  img:
+    src: B4mpQoNA2Dm
+    alt: Smice (Smart Choice)
+    height:
+  alert:
+    message:
+  list:
+    - creating a relevance map;
+    - development of prototypes of the design layout;
+    - development of the concept of content-filling the application;
+    - formation of a palette of colors and development of a Style Guide;
+    - development of design and user interface (UI);
+    - formation of dependencies of different elements of the application;
+    # - development of an original and functional 404 error page;
+    # - development of scripts for calculating the cost of analyzes on service pages;
+    - implementing the logic;
+    - analysis of the correct display of the application on different window application;
+    - lauching and testing the work.
+palette:
+  - type: ''
+    hex:
+      - b24c57
+      - FFFFFF
+typography:
+  fonts: "<link href='https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu&display=swap' rel='stylesheet'>"
+  headline: Ubuntu
+  text: Roboto
+grid:
+  cols: 12
+  width: 68
+  size: 1140
+responsive:
+  percent: '100'
+  dash:
+    Performance: '95'
+    Accessibility: '85'
+    Practices: '90'
+    Result Satisfaction: '85'
+cms: ',https://github.com/GunjanKadu/CourseRecommendersForStudent;'
+goals:
+  show: false
+  title: Achievement of the goal
+  chart:
+    series:
+    labels:
+conversion:
+  show: true
+  title: Conversion
+  value: ['16']

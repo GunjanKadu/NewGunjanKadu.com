@@ -1,0 +1,145 @@
+hide: false
+type: dev-site
+title: Jira Clone
+img:
+  src: /src/web/demoJira.gif
+  alt: Jira Clone
+ux:
+  works: Agile Project Management
+  price: Agile
+created: '2020-07-11'
+period:
+  - '2020-07-11'
+  - '2020-09-06'
+deadline: It took 2 month to complete the task.
+preview:
+  tools:
+    - title: Design
+      tags:
+        - Figma
+    - title: Standard
+      tags:
+        - HTML5
+        - CSS3
+        - TypeScript
+    - title: Frontend
+      tags:
+        - Angular.js
+        - Electron.js
+    - title: Backend
+      tags:
+        - Node.js
+        - Nest.js
+    - title: Software
+      tags:
+        - Visual Studio Code
+        - SASS/SCSS
+        - Git
+    - title: Others
+      tags:
+        - ngrx
+        - Akita state management
+        - Netlify
+        - Heroku
+  roles:
+    - title: My
+      tags:
+        - UI/UX Designer
+        - Full Stack Developer
+
+client:
+  logoJPG: null
+  logoWEBP: null
+  head: Jira Clone
+  description: The Application is built for every member of your software team to plan, track, and release great software.
+  issues: A simplified Jira clone built with Angular, Akita and ng-zorro.
+  task:
+    - user Authentication SignUp/Signin
+    - ceate a personal Project.
+    - users can search for other projects.
+    - create user stories and issues.
+    - plan Sprints.
+    - create your software team.
+    - download Videos
+    - distribute tasks across your software team.
+    - improve team performance based on real-time, visual data that your team can put to use.
+    - choose a workflow, or make your own
+    - connect your team's work to your product roadmap
+done:
+  img:
+    src: B4mpQoNA2Dm
+    alt: Jira Clone
+    height:
+  alert:
+    message:
+  list:
+    - creating a relevance map;
+    - development of prototypes of the design layout;
+    - development of the concept of content-filling the site;
+    - formation of a palette of colors and development of a Style Guide;
+    - development of design and user interface (UI);
+    - formation of dependencies of different elements of the site;
+    - layout of the site using the Mobile First method and filling with the provided content;
+    # - development of an original and functional 404 error page;
+    # - development of scripts for calculating the cost of analyzes on service pages;
+    - implementing the logic;
+    - implementing workflow foundation;
+    - analysis of the correct display of the site in different browsers;
+    - analysis of the correct display of the site on modern mobile devices;
+    - launching and connecting end-to-end website analytics, tracking its effectiveness.
+    - lauching and testing the work.
+palette:
+  - type: ''
+    hex:
+      - 0a47a5
+      - FFFFFF
+  - type: ''
+    hex:
+      - f3f5f6
+      - FFFFFF
+  - type: ''
+    hex:
+      - a6392f
+      - 080d0f
+  - type: ''
+    hex:
+      - 111d20
+      - FFFFFF
+typography:
+  fonts: "<link href='https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu&display=swap' rel='stylesheet'>"
+  headline: Ubuntu
+  text: Roboto
+grid:
+  cols: 12
+  width: 68
+  size: 1140
+responsive:
+  percent: '100'
+  dash:
+    Performance: '82'
+    Accessibility: '85'
+    Workflow Creation: '85'
+    Project Management: '95'
+cms: ',https://github.com/GunjanKadu/Jira-Clone;'
+
+analytics:
+  result: the conversion rate was 16%.
+  traffic:
+    show: false
+    title: Search traffic
+    type: bar
+    series:
+      - name: ''
+        data:
+      - name: Start
+        data:
+  goals:
+    show: false
+    title: Achievement of the goal
+    chart:
+      series:
+      labels:
+  conversion:
+    show: true
+    title: Conversion
+    value: ['16']

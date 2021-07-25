@@ -103,7 +103,14 @@ data:
     icon: $mdiMicrosoftVisualStudioCode
   - alt: CMS
     set:
-      - WordPress
-      - WIX
+      - Javascript
+      - Java
+      - SpringBoot
+      - React
+      - React Native
+      - Angular
+      - Node JS
+      - Express
+      - REST api
     color: brown
     icon: $mdiWordpress
