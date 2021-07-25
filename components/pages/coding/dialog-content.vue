@@ -42,7 +42,7 @@
                   :data-pen-title='item.view.title',
                   :data-default-tab='item.view.tabs',
                   :data-theme-id='$vuetify.theme.dark ? "dark" : "light"',
-                  data-user='andrejsharapov'
+                  data-user='GunjanKadu'
                 )
                 script(
                   async,

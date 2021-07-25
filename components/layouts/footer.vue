@@ -10,7 +10,7 @@ v-footer.layout__footer.py-0(
           v-icon.heart(color='pink', size='18') {{ mdiHeart }}
           | &nbsp;
           a.d-inline-flex.align-center(
-            href='https://twitter.com/andrejsharapov',
+            href='https://gunjankadu.com',
             target='_blank',
             rel='noopener noreferrer',
             title=''

@@ -20,7 +20,7 @@ export const appMeta = {
     },
     share: '/share.jpg',
     short: 'gunjankadu.com',
-    twitter: '@andrejsharapov',
+    twitter: '@Dotalicious3',
   },
   host: {
     name: 'Gunjan Kadu',

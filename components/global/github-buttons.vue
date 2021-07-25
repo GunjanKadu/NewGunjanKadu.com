@@ -7,7 +7,7 @@ v-col.github-buttons.pa-0.d-flex.align-center(
     icon,
     dark,
     plain,
-    href='https://github.com/andrejsharapov/nuxt-app',
+    href='https://github.com/GunjanKadu/NewGunjanKadu.com',
     target='blank',
     rel='noopener noreferrer',
     color='white'
@@ -16,18 +16,18 @@ v-col.github-buttons.pa-0.d-flex.align-center(
 
   .ml-2.mb-n2
     github-button(
-      href='https://github.com/andrejsharapov/nuxt-app',
+      href='https://github.com/GunjanKadu/NewGunjanKadu.com',
       data-icon='octicon-star',
       data-show-count='true',
-      aria-label='Star andrejsharapov/nuxt-app on GitHub'
+      aria-label='Star gunjankadu/nuxt-app on GitHub'
     ) Star
 
   .ml-2.mb-n2
     github-button(
-      href='https://github.com/andrejsharapov/nuxt-app/issues',
+      href='https://github.com/GunjanKadu/NewGunjanKadu.com/issues',
       data-icon='octicon-issue-opened',
       data-show-count='true',
-      aria-label='Issue andrejsharapov/nuxt-app on GitHub'
+      aria-label='Issue gunjankadu/nuxt-app on GitHub'
     ) Issue
 </template>
 

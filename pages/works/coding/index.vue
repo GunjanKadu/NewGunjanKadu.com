@@ -27,7 +27,7 @@
           |
           |
           a(
-            href='https://codepen.io/andrejsharapov',
+            href='https://codepen.io/gunjan_kadu',
             target='_blank',
             rel='noopener noreferrer'
           ) CodePen

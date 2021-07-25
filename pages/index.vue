@@ -17,7 +17,7 @@ mixin sheet(color, saturation, size)
         //- author image
         v-img.shadow-xl.rounded-lg(
           lazy-src='https://fakeimg.pl/300/e9ecf2/1e1e24?text=AUTHOR',
-          src='/src/author/unicorn.png',
+          src='/src/author/unicorn.jpg',
           :alt='$t("author.name")'
         )
           template(#placeholder)
@@ -379,12 +379,12 @@ export default {
       if (this.$i18n.locale === 'ru') {
         return {
           title: 'Обо мне',
-          path: 'https://geekbrains.ru/posts/single_developer_story',
+          path: 'https://gunjankadu-2eaa6.web.app/',
         }
       } else if (this.$i18n.locale === 'en') {
         return {
-          title: 'My story',
-          path: 'https://andrejsharapov.medium.com/what-if-you-are-a-solo-developer-7c6cee66bf48',
+          title: 'My Old Portfolio',
+          path: 'https://gunjankadu-2eaa6.web.app/',
         }
       }
     },
