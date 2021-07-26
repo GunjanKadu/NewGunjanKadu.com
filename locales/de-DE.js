@@ -115,243 +115,253 @@ export default {
   },
   category: 'Kategorie | Kategorie | Nicht Kategorie',
   date: {
-    default: 'Дата',
+    default: 'Datum',
   },
-  editor: 'Редактор',
+  editor: 'Editor',
   events: {
-    before: 'До',
-    after: 'После',
-    updates: 'Обновления',
-    show: 'Показать | показать',
-    hide: 'Скрыть | скрыть',
-    prev: 'Назад | Предыдущая | Предыдущий',
-    next: 'Вперед | Следующая | Следующий',
+    before: 'Vor',
+    after: 'Nach',
+    updates: 'Updates',
+    show: 'Anzeigen | anzeigen',
+    hide: 'Ausblenden | Ausblenden',
+    prev: 'Zurück | Prev | Previous',
+    next: 'Vorwärts | Weiter | Nach',
   },
   host: {
     name: `${config.host.name}`,
     url: `${config.host.url}`,
   },
   more: {
-    base: 'Еще',
-    details: 'Подробнее',
-    events: 'Больше событий',
+    base: 'Mehr',
+    details: 'Mehr Details',
+    events: 'Mehr Events',
   },
   news: {
-    about: 'Новости и упоминания в СМИ',
+    about: 'Erwähnungen in Nachrichten und Medien',
   },
-  no: 'Нет',
+  no: 'Nein',
   poll: {
-    title: 'UX Опрос',
-    message: 'Примите участие в опросе, и вы поможете сделать сайт лучше.',
-    btn: 'Пройти опрос',
+    title: 'UX-Umfrage',
+    message:
+      'Nehmen Sie an der Umfrage teil und helfen Sie mit, die Website für Sie zu verbessern.',
+    btn: 'Umfrage durchführen',
   },
   position: {
-    right: 'Право | Справа | Направо | Левый',
-    left: 'Лево | Слева | Налево | Правый',
+    right: 'Rechts | rechts',
+    left: 'Links | links',
   },
   projects: {
-    recent: 'Недавние проекты',
-    'not-found': 'Нет завершенных проектов.',
+    recent: 'Neueste Projekte',
+    'not-found': 'Keine abgeschlossenen Projekte.',
   },
   pages: {
     articles: {
-      title: 'Статьи',
+      title: 'Artikel',
     },
     cases: {
-      title: 'Кейсы',
+      title: 'Fälle',
       message:
-        'Ниже представлены категории в области дизайна и разработки. | Выберите нужную вам карточку, чтобы перейти в раздел с кейсами.',
+        'Unten sind die Kategorien der Arbeiten im Bereich Design und Entwicklung. | Wählen Sie eine Karte aus, um in den Bereich mit den Arbeiten zu gelangen.',
       slug: {
-        analytics: 'Веб-аналитика',
+        analytics: 'Web-Analytik',
         client: {
-          about: 'О клиенте',
-          issues: 'Проблематика',
+          about: 'Kunde',
+          issues: 'Ausgaben',
           task: {
-            title: 'Задача | Задачи',
+            title: 'Aufgabe | Aufgaben',
           },
-          'not-found': 'Клиент отсутствует или не был назван умышленно.',
+          'not-found': 'Der Client fehlt oder wurde absichtlich nicht genannt.',
         },
-        colors: 'Фирменные цвета',
-        deadline: 'Сроки',
-        done: 'В ходе работы',
-        grid: 'Сетка',
-        'header-tabs': ['Инструменты', 'Роли'],
+        colors: 'Farben',
+        deadline: 'Deadline',
+        done: 'Während der Arbeit',
+        grid: 'Grid',
+        'header-tabs': ['Werkzeuge', 'Rolle'],
         headings: {
-          sections: ['Клиент, проблемы и цели', 'Поиск решения и результат'],
+          sections: [
+            'Kunde, Probleme und Aufgaben',
+            'Ergebnis und Suche nach einer Lösung',
+          ],
         },
         responsive: {
-          title: 'Оптимизация',
-          friendliness: 'Удобство для пользователей',
-          optimization: 'Работы по оптимизации сайта не проводились.',
+          title: 'Responsive',
+          friendliness: 'Benutzerfreundlichkeit',
+          optimization:
+            'Website-Optimierungsarbeiten wurden nicht durchgeführt.',
           'not-responsive': {
-            title: 'Оптимизации нет',
-            message: 'Просмотр возможен при разрешении экрана {size}px и выше.',
+            title: 'Nicht Responsive',
+            message:
+              'Die Betrachtung ist ab einer Bildschirmauflösung von {size}px möglich.',
           },
         },
         result: {
-          title: 'Результат',
+          title: 'Ergebnis',
         },
-        sizes: 'Размеры',
-        storyboard: 'Раскадровка',
-        testimonials: 'Отзыв клиента',
+        sizes: 'Größen',
+        storyboard: 'Storyboard',
+        testimonials: 'Testimonials',
         typography: {
-          title: 'Типографика',
-          view: ['Для заголовков', 'Для основного текста'],
+          title: 'Typografie',
+          view: ['Für Überschriften', 'Für Fließtext'],
         },
       },
     },
     certificates: {
       message:
-        'За время работы, мною было пройдено несколько тестов и онлайн-курсов по веб-дизайну, разработке, маркетингу и некоторым другим областям. Ниже вы можете ознакомиться с сертификатами о прохождении.',
+        'Während meiner Arbeit habe ich mehrere Tests und Online-Kurse in Webdesign, Entwicklung, Management und einigen anderen Bereichen absolviert. Unten können Sie einige meiner Zertifikate sehen',
     },
     coding: {
       message: [
-        'Написать хороший код сразу не всегда удается, поэтому его приходится тестировать в отдельных от сайта программах и редакторах. Я часто экспериментирую с кодом в поисках вдохновения или в попытках самосовершенствования и иногда у меня получаются прикольные штуки, некоторыми из которых я делюсь с другими разработчиками на',
-        'и с радостью поделюсь с вами.',
+        'Es ist nicht immer möglich, guten Code sofort zu schreiben, daher muss er in Programmen und Editoren getrennt von der Website getestet werden. Ich experimentiere oft mit Code, und auf der Suche nach Inspiration oder um mich selbst zu verbessern, kommen manchmal coole Dinge heraus, von denen ich einige mit anderen Entwicklern auf der',
+        ' und gerne mit Ihnen teilen werde.',
       ],
     },
     contact: {
       message:
-        'Вы можете связаться со мной через указанные выше социальные сети или использовать другие контакты.',
-      help: 'Нажмите на номер телефона или адрес, чтобы скопировать.',
+        'Sie können mich über die oben genannten sozialen Netzwerke kontaktieren oder andere Kontakte nutzen.',
+      help: 'Klicken Sie zum Kopieren auf die Rufnummer oder Adresse.',
     },
     'des-apps': {
       message:
-        'О разработке дизайна для приложений я задумался лишь в конце 2019 года, поскольку у меня не было для этого времени и я считал что не смогу, так как не изучал эту сферу. Вдохновляясь работами других дизайнеров, изучая гайды и Киты* я решил попробовать свои силы и разработал в Figma интерфейс {link}. На троечку, но у меня получилось. Эта работа стала для меня отправной точкой.',
+        'Ich habe erst Ende 2019 darüber nachgedacht, ein Design für Anwendungen zu entwickeln, da ich keine Zeit dafür hatte und dachte, dass ich das nicht kann, da ich diesen Bereich nicht studiert hatte. Inspiriert von der Arbeit anderer Designer, dem Studium von Leitfäden und UI-Kits*, beschloss ich, mich selbst zu versuchen und entwickelte die Oberfläche der Anwendung {link} in Figma. Eine C-Note, aber ich habe es geschafft. Diese Arbeit wurde zu einem Ausgangspunkt für mich.',
     },
     'des-site': {
       message:
-        'Я знаю, каждый клиент, прежде чем сделать выбор, хочет увидеть навыки дизайнера и его реальные кейсы, то есть «живые» работы, а не просто таблицу из размытых скриншотов. Это логично, поэтому на этой странице я представил часть своих работ, выполненных в разное время, при помощи разных инструментов. | Глядя на работы, вы можете увидеть мой профессиональный рост и навыки, которыми я обладаю. Узнайте, соответствуют ли они вашим требованиям, прежде чем вы решите разместить заказ.',
-      experience: 'Опыт дизайна и прототипирования в годах | Опыт работы в',
+        'Ich weiß, dass jeder Kunde, bevor er eine Wahl trifft, die Fähigkeiten eines Designers und seine echten Fälle sehen möchte, also "Live"-Arbeit und nicht nur eine Tabelle mit unscharfen Screenshots. Das macht Sinn, deshalb habe ich auf dieser Seite einige meiner Arbeiten vorgestellt, die ich zu verschiedenen Zeiten und mit verschiedenen Tools gemacht habe. | Indem Sie sich meine Arbeit ansehen, können Sie mein berufliches Wachstum und die Fähigkeiten, die ich besitze, sehen. Finden Sie heraus, ob sie Ihren Anforderungen entsprechen, bevor Sie sich entscheiden, einen Auftrag zu erteilen.',
+      experience:
+        'Design- und Prototyping-Erfahrung in Jahren | Berufserfahrung in',
     },
     'dev-banners': {
       advantage: {
         prepend:
-          'В октябре 2017 я попробовал свои силы в разработке html5-баннеров, поскольку баннеры, использующие HTML5-технологию имеют множество преимуществ:',
+          'Im Oktober 2017 habe ich beschlossen, mich an der Entwicklung von HTML5-Bannern zu versuchen, da Banner mit HTML5-Technologie viele Vorteile haben:',
         list: [
-          'возможность использовать любые элементы веб-страниц в html5-баннерах: текст, изображения, видео и другие',
-          'возможность использовать динамические сценарии (раскадровка и аниматик)',
-          'файлы HTML5-баннера могут иметь достаточно небольшой размер',
-          'с помощью CSS медиа-запросов можно подстраивать элементы баннера под любые размеры экрана',
-          'возможность редактирования баннера после его размещения',
+          'die Fähigkeit, beliebige Elemente von Webseiten zu verwenden: Text, Bilder, Videos und andere',
+          'die Fähigkeit, dynamische Skripte (Storyboard und Animatic) zu verwenden',
+          'HTML5-Bannerdateien können recht klein sein',
+          'mit CSS-Media-Queries können Sie die Bannerelemente an jede Bildschirmgröße anpassen',
+          'die Möglichkeit, das Banner nach seiner Platzierung zu bearbeiten',
         ],
         append:
-          'Баннер - это прежде всего имиджевая реклама вашей компании в сети. Дизайн вашего баннера напрямую влияет на лояльность пользователей к вашей компании, товаре или услуге. Иными словами, качество HTML5-баннера напрямую влияет на количество посетителей и конверсию вашего сайта.',
+          ' Ein Banner ist in erster Linie eine Imagewerbung für Ihr Unternehmen im Internet. Das Design Ihres Banners wirkt sich direkt auf die Bindung der Nutzer an Ihr Unternehmen, Ihr Produkt oder Ihre Dienstleistung aus. Mit anderen Worten, die Qualität des Banners wirkt sich direkt auf die Anzahl der Besucher und die Konversion Ihrer Seite aus.',
       },
     },
     'dev-site': {
-      cms: 'Изучать веб-разработку я начал давно, еще в 2010 году. Это были мои первые познания в области веб-разработки и дизайна для сайтов, которые со временем переросли в хобби. За эти несколько лет я научился работать с HTML, CSS, JS и успел поработать с различными системами управления контентом сайта (CMS). Но полноценной разработкой сайтов я занялся лишь в 2018 году, когда научился создавать сайты на WordPress и устроился по вакансии веб-разработчика.',
+      cms: 'Ich habe 2010 angefangen, Webentwicklung zu lernen. Dies war meine erste Kenntnis der Webentwicklung, die schließlich zu einem Hobby wurde. Im Laufe der Jahre habe ich gelernt, mit HTML, CSS, JS zu arbeiten und habe mit verschiedenen Content-Management-Systemen (CMS) gearbeitet. Aber mit der vollwertigen Website-Entwicklung habe ich erst 2018 begonnen, als ich lernte, wie man Websites auf WordPress erstellt und einen Job als Webentwickler bekam.',
       message:
-        'Глядя на работы, вы можете увидеть мой профессиональный рост и навыки, которыми я обладаю. Узнайте, соответствуют ли они вашим требованиям, прежде чем вы решите разместить заказ.',
+        'Indem Sie sich meine Arbeiten ansehen, können Sie meine berufliche Entwicklung und die Fähigkeiten, die ich besitze, erkennen. Finden Sie heraus, ob sie Ihren Anforderungen entsprechen, bevor Sie sich entscheiden, einen Auftrag zu erteilen.',
     },
     drawings: {
       message:
-        'В детстве я учился в школе искусств, изучал рисунок, живопись, графику, историю искусств, скульптуру и многое другое. К сожалению, поделиться всеми своими работами я не могу, поскольку многие из них утеряны. Но, в августе 2019 года я нашел несколько старых скетчей, которые вы можете увидеть ниже.',
+        'Als Kind besuchte ich die Kunstschule, studierte Zeichnen, Malerei, Grafik, Kunstgeschichte, Bildhauerei und vieles mehr. Leider kann ich nicht alle meine Werke teilen, da viele von ihnen verloren sind. Aber im August 2019 habe ich einige alte Skizzen gefunden, die Sie unten sehen können.',
     },
     illustrations: {
       message:
-        'Иллюстрации я создаю не часто, но стараюсь, время от времени, практиковаться, чтобы не терять навыки. На этой страничке представлено несколько сделанных мною иллюстраций, помимо милых рыбок, которых вы можете встретить на страницах сайта.',
+        'Ich mache nicht oft Illustrationen, aber ich versuche, von Zeit zu Zeit zu üben, um meine Fähigkeiten nicht zu verlieren. Auf dieser Seite gibt es mehrere Illustrationen, die ich gemacht habe, zusätzlich zu den niedlichen Fischen, die Sie auf den Seiten der Website sehen können.',
     },
     index: {
-      title: 'Главная',
+      title: 'Home',
       sections: {
         about: {
           message:
-            'Добро пожаловать! Меня зовут {author}. Более {years} лет занимаюсь созданием дизайна, версткой и программированием сайтов на различных CMS и сайтбилдерах. Мне нравится создавать что-то новое, искать интересные решения, делать невозможное при помощи простого кода и воплощать свои идеи и идеи клиентов в жизнь.',
+            'Hallo, Ich bin {Autor} und ich bin 25 Jahre jung. Ich bin ein ➼ Full Stack Developer mit einem großen Interesse an ➼ End to End Software Development. Zurzeit mache ich meinen Master in Informatik an der Universität Heidelberg mit den Schwerpunkten ➼ Full Stack Web- und ➼ Mobile App-Entwicklung, ➼ Java-Entwickler mit Schwerpunkt ➼ REST Services & ➼ Micro-Services mit ➼ Spring Framework & ➼ MySQL nur mit dem Ziel, als Kenner hervorzutreten, um meine Fähigkeiten in der Disziplin der Informatik weiter zu verbessern. ➡ Seit {years} Jahren beschäftige ich mich mit der Erstellung von Design, Layout und Programmierung / Aufbau von Softwares und Websites. Ich mag es, etwas Neues zu schaffen, nach interessanten Lösungen zu suchen, das Unmögliche mit einfachem Code zu tun und meine Ideen und Kundenideen zum Leben zu erwecken.',
           activity: {
             prepend:
-              'Я постоянно развиваюсь и совершенствую свои навыки в три простых шага',
+              'Ich entwickle mich ständig weiter und verbessere meine Fähigkeiten in drei einfachen Schritten',
             list: [
               {
-                message: 'Анализируя работы более опытных разработчиков',
+                message: 'Analysieren der Arbeit von erfahrenen Entwicklern',
               },
               {
-                message: 'Изучая тренды UI/UX дизайна и веб-разработки',
+                message:
+                  'Studieren von UI / UX Design und Web- und Softwareentwicklungstrends',
               },
               {
-                message: 'Работая с новыми программами и языками',
+                message: 'Arbeiten mit neuen Programmen und Sprachen',
               },
             ],
             append:
-              'Они помогают мне не выпадать из потока стремительно развивающихся областей и всегда быть в курсе свежих событий и тенденций.',
+              'Sie helfen mir, in den sich schnell entwickelnden Bereichen im Fluss zu bleiben und immer auf dem neuesten Stand der Entwicklungen und Trends zu sein.',
           },
         },
         counters: {
           message:
-            'Помимо дизайна и разработки я изучаю маркетинг, поскольку за время работы убедился, что эти три аспекта неотделимы друг от друга. Я имею достаточно знаний и опыта, необходимых для разработки практичного, качественного и функционального продукта, а понимание потребностей пользователей и принципов маркетинга позволяет мне в полной мере заниматься продвижением и поддержкой разработанных проектов.',
+            'Zusätzlich zu Design und Entwicklung studiere ich Marketing, weil ich bei meiner Arbeit darauf geachtet habe, dass diese drei Aspekte untrennbar miteinander verbunden sind. Ich habe genug Wissen und Erfahrung, die notwendig sind, um ein praktisches, qualitativ hochwertiges und funktionales Produkt zu entwickeln, und das Verständnis der Nutzerbedürfnisse und Marketingprinzipien ermöglicht es mir, mich voll und ganz für die Förderung und Unterstützung der entwickelten Projekte einzusetzen.',
         },
         certificates: {
-          title: 'Сертификаты',
+          title: 'Certificates',
           message:
-            'Чтобы проверить свои силы, я периодически прохожу тестирование и онлайн-курсы по веб-дизайну, разработке и продвижению. В результате прохождения, я получаю электронные сертификаты, с которыми вы можете ознакомиться ниже и на страничке сертификатов.',
+            'Um meine Stärken zu testen, nehme ich regelmäßig an Tests und Online-Kursen in den Bereichen Webentwicklung, Design und Promotion teil. Als Ergebnis des Bestehens erhalte ich elektronische Zertifikate, die Sie unten und auf der Seite mit den Zertifikaten finden können.',
         },
         progress: {
-          title: 'События и достижения',
+          title:
+            'Events <span class="d-none d-sm-inline-block">und Leistungen</span>',
           message:
-            'За время работы, мною успешно выполнено около {projects} проектов по созданию дизайна и разработке сайтов, более {works} небольших заказов различной сложности: отрисовка элементов и рефакторинг кода, разработка логотипов, корпоративных сайтов и многое другое.',
+            ' Während meiner Arbeit habe ich etwa {projects} erfolgreich abgeschlossen und Designs, Websites, Softwares, Microservices und mehr erstellt, außerdem {works}+ kleine Aufträge unterschiedlicher Komplexität: Elemente zeichnen und Code refaktorisieren, Logos entwickeln, komplexe Features hinzufügen und vieles mehr.',
         },
         skillset: {
-          title: 'Умения и навыки',
+          title: 'Skillset',
         },
         works: {
           message:
-            'В марте 2019 года я перешел от разработки {from} макетов в программу {to}, в которой теперь занимаюсь прототипированием и разработкой дизайна сайтов и приложений. Посмотрите некоторые из моих работ ниже и на специальной странице.',
+            'Im März 2019 habe ich auch begonnen, Layouts in {to} zu entwerfen, während ich jetzt Prototypen, Designs und komplette Websites und Anwendungen entwickle, was mich zu einem Full-Stack-Entwickler macht. Sehen Sie sich einige meiner Arbeiten im Portfolio an.',
         },
       },
     },
     logos: {
       message:
-        'В моем портфолио не так много примеров, которыми можно похвастаться, но, представленные ниже работы, являются для меня пусть и небольшими, но, как-никак, достижениями.',
-      format: 'Формат',
+        'Es gibt nicht viele Beispiele in meinem Portfolio, mit denen ich mich rühmen könnte, aber die im Folgenden vorgestellten Arbeiten sind für mich, obwohl sie klein sind, dennoch Leistungen.',
+      format: 'Format',
     },
     photoshop: {
       message:
-        'В 2010 году я впервые познакомился с фотошопом. Тогда я создал «ВКонтaкте» сообщество {link} и начал разрабатывать дизайн для групп и макеты для сайтов.',
+        'Im Jahr 2010 habe ich zum ersten Mal mit Photoshop Bekanntschaft gemacht. Dann gründete er eine Community {link} und begann, Designs für VKontakte-Gruppen und Prototypen für Websites zu entwickeln.',
       games:
-        'В том же году «ВКонтaкте» запустила вики-разметку, и в процессе ее изучения я создал несколько вики-игр, для реализации которых потребовались знания Фотошопа. Некоторые игры все еще частично работают, поэтому вы можете присоединиться к сообществу и попробовать такие игры, как: Crusader, Sims и Пенальти.',
-      now: 'В последнее время я все реже использую фотошоп, но стараюсь не забывать о нем и поддерживать свои навыки, поэтому время от времени я обрабатываю фотографии, некоторые из которых вы можете увидеть ниже.',
+        'Im selben Jahr startete VKontakte einen Wiki-Code, und im Zuge des Studiums entschied ich mich, mehrere Spiele zu implementieren, die einige Kenntnisse in Photoshop erforderten, um sie zu vervollständigen. Einige Spiele sind noch teilweise in Arbeit, so dass Sie der Community beitreten und Spiele wie: Kreuzritter, Sims und Strafen ausprobieren können.',
+      now: 'In letzter Zeit benutze ich Photoshop immer weniger, aber ich versuche, es nicht zu vergessen und meine Fähigkeiten zu erhalten, also bearbeite ich von Zeit zu Zeit Fotos, von denen Sie einige unten sehen können.',
     },
     projects: {
       message:
-        'Часто идеи, рожденные в голове, остаются лишь идеей. Поэтому я стараюсь воплощать свои идеи в реальность и некоторые из них превратились в масштабные проекты.',
+        'Oft bleiben die Ideen, die im Kopf geboren werden, nur eine Idee. Deshalb versuche ich, meine Ideen zum Leben zu erwecken, und einige von ihnen sind zu Großprojekten geworden.',
     },
-    shown: 'Показано на странице',
+    shown: 'Abgebildet auf Seite',
     timeline: {
       message:
-        'Здесь вы можете увидеть ленту моих профессиональных достижений и наиболее значимых для меня событий. Я надеюсь, что это побудит вас следовать своим мечтам и записывать свои достижения на этом пути!',
+        'ЗHier können Sie ein Band mit meinen beruflichen Erfolgen und den für mich wichtigsten Ereignissen sehen. Ich hoffe, dies ermutigt Sie, Ihren Träumen zu folgen und Ihre Errungenschaften auf dem Weg dorthin festzuhalten!',
     },
   },
   search: {
-    label: 'Поиск',
-    placeholder: 'Начните вводить текст...',
-    found: 'По вашему запросу найдено материалов.',
-    'not-found': 'Очень жаль, но по вашему запросу ничего найдено.',
+    label: 'Suche',
+    placeholder: 'Beginnen Sie mit der Eingabe des Textes...',
+    found: 'Gefundene Materialien auf Ihre Anfrage.',
+    'not-found':
+      'Es tut uns leid, aber es gibt keine Ergebnisse für Ihre Suche.',
   },
-  settings: 'Настройки',
+  settings: 'Einstellungen',
   site: {
     header: {
-      name: 'Шапка',
-      sticky: 'Закрепить',
+      name: 'Kopfzeile',
+      sticky: 'Klebrig',
     },
     navbar: {
-      name: 'Навигация',
+      name: 'Navigation',
     },
     page: {
-      construction: 'Страница находится в разработке',
+      construction: 'Diese Seite befindet sich im Aufbau',
     },
   },
   size: {
-    name: 'Размер',
-    full: 'Обычная',
-    mini: 'Мини',
+    name: 'Größe',
+    full: 'Vollständig',
+    mini: 'Mini',
   },
-  source: 'Источник | Исходники',
-  'table-of-contents': 'Содержание | содержание',
-  yes: 'Да',
+  source: 'Quelle | Quellen',
+  'table-of-contents': 'Inhaltsverzeichnis | table of contents',
+  yes: 'Ja',
   works: {
-    'works-not-found': 'Работы не представлены',
-    examples: 'Примеры работ',
-    rate: 'Оценить работу с помощью',
-    types: 'Тип работ',
+    'works-not-found': 'Werke nicht gefunden',
+    examples: 'Arbeitsbeispiele',
+    rate: 'Arbeit bewerten mit',
+    types: 'Art der Arbeiten',
   },
 }
