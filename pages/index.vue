@@ -376,9 +376,9 @@ export default {
   },
   methods: {
     storyLocale() {
-      if (this.$i18n.locale === 'ru') {
+      if (this.$i18n.locale === 'de') {
         return {
-          title: 'Обо мне',
+          title: 'Mein altes Portfolio',
           path: 'https://gunjankadu-2eaa6.web.app/',
         }
       } else if (this.$i18n.locale === 'en') {

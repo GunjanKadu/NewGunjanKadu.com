@@ -49,7 +49,7 @@ export default {
   },
   methods: {
     titleLocale(cert) {
-      if (this.$i18n.locale === 'ru') {
+      if (this.$i18n.locale === 'de') {
         return cert.title
       } else if (this.$i18n.locale === 'en') {
         return cert.slug

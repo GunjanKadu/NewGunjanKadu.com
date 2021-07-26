@@ -99,12 +99,12 @@ export default {
     },
     chipClicked() {
       const skillSetItem = () => {
-        if (this.$i18n.locale === 'ru') {
+        if (this.$i18n.locale === 'de') {
           return {
             group: 'skillset-item',
             type: 'success',
-            title: 'Вы нашли секретик!',
-            text: 'Бейджики можно менять местами и перетаскивать в соседние блоки.',
+            title: 'Sie haben ein Geheimnis gefunden!',
+            text: 'Abzeichen können getauscht und in benachbarte Blöcke gezogen werden.',
           }
         } else if (this.$i18n.locale === 'en') {
           return {

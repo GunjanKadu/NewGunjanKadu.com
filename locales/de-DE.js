@@ -1,120 +1,119 @@
 import { appMeta as config } from '../config/app'
 
 export default {
-  all: 'Все',
+  all: 'Alle',
   app: {
     cookie: {
       message:
-        'На сайте используются средства аналитики, для анализа действий пользователя, в целях улучшения качества сайта.',
+        'Die Website verwendet Analysetools, um Benutzeraktionen zu analysieren, um die Qualität der Website zu verbessern.',
     },
-    'general-information': 'Общая информация',
-    'last-revised': 'Последняя редакция',
-    license: 'Лицензия',
-    loading: 'Загружаемся',
+    'general-information': 'Allgemeine Informationen',
+    'last-revised': 'Zuletzt überarbeitet',
+    license: 'Lizenz',
+    loading: 'Laden',
     meta: {
-      title: `${config.app.ru.title}`,
-      description: `${config.app.ru.description}`,
+      title: `${config.app.de.title}`,
+      description: `${config.app.de.description}`,
     },
-    privacy: 'Конфиденциальность',
-    terms: 'Условия использования',
-    updates: 'Обновления',
-    category: 'Категория | категория | Нет категории',
+    privacy: 'Datenschutz',
+    terms: 'Bedingungen für die Nutzung',
+    updates: 'Updates',
+    category: 'Kategorie | Kategorie | Nicht Kategorie',
     date: {
-      default: 'Дата',
+      default: 'Datum',
     },
     errors: {
       'page-not-found': {
-        title: 'Страница не найдена',
+        title: 'Seite nicht gefunden',
         poll: {
-          question: 'Как вы думаете, почему вы оказались именно здесь?',
+          question: 'Was denken Sie, warum Sie hier gelandet sind?',
           answers: [
             {
               col: 'orange',
-              label: 'Скорее всего, страница, которую я ищу была перемещена',
+              label: 'Wahrscheinlich ist die gesuchte Seite verschoben worden',
             },
             {
               col: 'warning',
-              label: 'Скорее всего, страница, которую я ищу была переименована',
+              label: 'Wahrscheinlich wurde die gesuchte Seite umbenannt',
             },
             {
               col: 'error',
               label:
-                'Скорее всего, страница, которую я ищу была удалена самым жестоким образом',
+                'Wahrscheinlich wurde die gesuchte Seite auf die brutalste Art und Weise gelöscht',
             },
             {
               col: 'success',
-              label:
-                'Скорее всего, страница, которую я ищу вообще никогда не существовала',
+              label: 'Wahrscheinlich hat die gesuchte Seite nie existiert',
             },
           ],
           result: [
-            'Возможно, но это не точно...',
-            'Вполне вероятно, что вы правы! Нажмите кнопку ниже для перехода на главную страницу или воспользуйтесь навигацией в левой части сайта, чтобы найти нужную вам страницу. Удачи.',
+            'Möglicherweise, aber nicht erforderlich...',
+            'Es ist sehr wahrscheinlich, dass Sie richtig sind! Klicken Sie auf die Schaltfläche unten, um zur Startseite zu gelangen, oder verwenden Sie die Navigation auf der linken Seite der Website, um die gewünschte Seite zu finden. Viel Glück!',
           ],
           notify: {
             success: {
               group: 'answers',
               type: 'success',
-              title: 'Да',
-              text: 'Это очень похоже на правду.',
+              title: 'Ja',
+              text: 'Dies ist der Wahrheit sehr ähnlich.',
             },
             error: {
               group: 'answers',
               type: 'error',
-              title: 'Не не не',
-              text: 'Нее... Это слишком жестоко.',
+              title: 'Nein nein nein',
+              text: 'Nicht... Das ist zu grausam.',
             },
             warning: {
               group: 'answers',
               type: 'warning',
-              title: 'Возможно',
-              text: 'Но это не точно...',
+              title: 'Vielleicht',
+              text: 'Aber es ist nicht so ...',
             },
           },
         },
       },
       'other-errors': {
-        title: 'Что-то пошло не так...',
-        subtitle: 'Кажется, где-то произошел сбой.',
+        title: 'Es ist etwas schief gelaufen..',
+        subtitle: 'Es scheint ein Systemfehler vorzuliegen.',
         messages: [
-          'Скорее всего это ошибка техническая, не связанная с вашими действиями. Перейдите на главную страницу и начните работу снова.',
-          'Если вам не сложно, пожалуйста, сообщите об этой ошибке, воспользовавшись формой.',
+          'Höchstwahrscheinlich handelt es sich um einen technischen Fehler, der nicht mit Ihren Aktionen zusammenhängt. Gehen Sie zur Startseite und beginnen Sie von vorn.',
+          'Wenn es für Sie kein Problem ist, melden Sie diesen Fehler bitte über das Formular.',
         ],
       },
     },
     lang: {
-      name: 'Язык',
-      ru: 'Русский',
+      name: 'Sprache',
+      de: 'Deutsch',
       en: 'English',
     },
     themes: {
-      name: 'Тема',
-      light: 'Светлая',
-      dark: 'Темная',
-      system: 'Системная',
+      name: 'Thema',
+      light: 'Hell',
+      dark: 'Dunkel',
+      system: 'System',
     },
   },
   author: {
-    title: 'Автор | автор',
-    name: 'Андрей Шарапов',
-    position: ['UI/UX дизайнер', 'Фронтенд разработчик'],
+    title: 'Autor | Autor',
+    name: 'gunjankadu',
+    position: ['Full Stack Entwickler', 'UX/UI Designer'],
     job: {
       status: `${config.author.job.status}`,
-      title: 'Предложить работу',
+      title: 'Einen Job anbieten',
     },
-    region: 'Россия, Москва',
+    region: 'Heidelberg, Deutschland',
   },
   btn: {
     go: {
-      to: 'Перейти',
-      back: 'Назад',
-      home: 'На главную',
+      to: 'Weiter zu',
+      back: 'Zurückgehen',
+      home: 'Home',
     },
-    download: 'Скачать',
-    view: 'Просмотр | Смотреть',
-    'report-problem': 'Сообщить о проблеме',
+    download: 'Herunterladen',
+    view: 'Ansicht | Ansichten',
+    'report-problem': 'Problem melden',
   },
-  category: 'Категория | категория | Нет категории',
+  category: 'Kategorie | Kategorie | Nicht Kategorie',
   date: {
     default: 'Дата',
   },
@@ -241,8 +240,7 @@ export default {
       },
     },
     'dev-site': {
-      cms:
-        'Изучать веб-разработку я начал давно, еще в 2010 году. Это были мои первые познания в области веб-разработки и дизайна для сайтов, которые со временем переросли в хобби. За эти несколько лет я научился работать с HTML, CSS, JS и успел поработать с различными системами управления контентом сайта (CMS). Но полноценной разработкой сайтов я занялся лишь в 2018 году, когда научился создавать сайты на WordPress и устроился по вакансии веб-разработчика.',
+      cms: 'Изучать веб-разработку я начал давно, еще в 2010 году. Это были мои первые познания в области веб-разработки и дизайна для сайтов, которые со временем переросли в хобби. За эти несколько лет я научился работать с HTML, CSS, JS и успел поработать с различными системами управления контентом сайта (CMS). Но полноценной разработкой сайтов я занялся лишь в 2018 году, когда научился создавать сайты на WordPress и устроился по вакансии веб-разработчика.',
       message:
         'Глядя на работы, вы можете увидеть мой профессиональный рост и навыки, которыми я обладаю. Узнайте, соответствуют ли они вашим требованиям, прежде чем вы решите разместить заказ.',
     },
@@ -311,8 +309,7 @@ export default {
         'В 2010 году я впервые познакомился с фотошопом. Тогда я создал «ВКонтaкте» сообщество {link} и начал разрабатывать дизайн для групп и макеты для сайтов.',
       games:
         'В том же году «ВКонтaкте» запустила вики-разметку, и в процессе ее изучения я создал несколько вики-игр, для реализации которых потребовались знания Фотошопа. Некоторые игры все еще частично работают, поэтому вы можете присоединиться к сообществу и попробовать такие игры, как: Crusader, Sims и Пенальти.',
-      now:
-        'В последнее время я все реже использую фотошоп, но стараюсь не забывать о нем и поддерживать свои навыки, поэтому время от времени я обрабатываю фотографии, некоторые из которых вы можете увидеть ниже.',
+      now: 'В последнее время я все реже использую фотошоп, но стараюсь не забывать о нем и поддерживать свои навыки, поэтому время от времени я обрабатываю фотографии, некоторые из которых вы можете увидеть ниже.',
     },
     projects: {
       message:

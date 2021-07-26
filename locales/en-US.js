@@ -84,7 +84,7 @@ export default {
     },
     lang: {
       name: 'Language',
-      ru: 'Русский',
+      de: 'German',
       en: 'English',
     },
     themes: {
@@ -296,7 +296,7 @@ export default {
           title:
             'Events <span class="d-none d-sm-inline-block">and achievements</span>',
           message:
-            'During my work, I have successfully completed about {projects} projects, creating designs, websites, softwares, microservices and more, also 100+ small orders of varying complexity: drawing elements and refactoring code, developing logos, adding complex features and much more.',
+            'During my work, I have successfully completed about {projects} projects, creating designs, websites, softwares, microservices and more, also {works}+ small orders of varying complexity: drawing elements and refactoring code, developing logos, adding complex features and much more.',
         },
         skillset: {
           title: 'Skillset',

@@ -1,0 +1,76 @@
+hide: false
+type: des-site
+title: App design "Paladar"
+img:
+  src: https://cdn.dribbble.com/users/8580830/screenshots/16075381/media/6c8e013ececf229c0563b40319e587ab.jpg?compress=1&resize=1200x900
+  alt: App design "Paladar"
+ux:
+  works: REDESIGN
+  price: Prototyping and design
+created: '2019-11-05'
+period:
+  - '2020-05-04'
+  - '2020-05-06'
+deadline: The task took about approximately 20 hours to complete.
+preview:
+  tools:
+    - title: Design
+      tags:
+        - Figma
+        - Adobe Illustrator
+  roles:
+    - title: My
+      tags:
+        - Ux/Ui Designer / Visual Designer
+  to:
+    dribbble: https://dribbble.com/shots/7971597-Forest-Fi-unlimited-free-internet-worldwide
+    behance: https://www.behance.net/gallery/87728433/Wi-Fi-Free-in-Every-Tree
+    instagram: https://www.instagram.com/p/B4dTsxIAc1E/
+client:
+  logoJPG:
+  logoWEBP:
+  head: App redesign "Paladar"
+  description: The idea of this project was taken by ‘Swiggy’ a food delivery service which provides parcels from all the restaurants near the clients location (in my home country India). We first decided the name as ‘Palate’ but then we wanted something attractive than usual then we chose the Spanish word for Palate which is ‘Paladar’. Me and Anika personally loved this name. Swiggy is one of the best food delivery service application in India. To re-think something which already exist is itself a big task. Obviously, the first step was to observe the similar featured application to find out the problems and to add the needy feature to come up with the good outcome. After the research we found out very interesting things, e.g. Spacing in the context, importance of buttons, and the speed of execution (animation speed and so on).
+  issues:
+  task:
+    - in attempt to redesign an existing app in a better way.
+done:
+  img:
+    src: B4dTsxIAc1E
+    alt: Landing page design "Reddit"
+    height:
+  alert:
+    message:
+  list:
+    - redesign planning and development of the conceptual component;
+    - notice the positions of all the icons and importance of them in front (every icon specified in front has its own reason and comfort to users)
+    - 'analysis, review of other redesign: functionality, number of users, ratings, reviews;'
+    - formation of a palette of colors, typography, and element states;
+    - development of prototypes of the design layout;
+    - design and user interface (UI) development.
+palette:
+  - type: ''
+    hex:
+      - ff4132
+      - 2b43ff
+  - type: ''
+    hex:
+      - c6d1d6
+      - 2b43ff
+  - type: ''
+    hex:
+      - a1a9fc
+      - fea7a0
+  - type: ''
+    hex:
+      - FFFFFF
+typography:
+  fonts: "<link href='https://fonts.googleapis.com/css2?family=futura&family=Raleway&display=swap' rel='stylesheet'>"
+  headline: Raleway
+  text: Futura
+grid:
+  cols: 12
+  width: 65
+  size: 1140
+responsive:
+  percent: '100'

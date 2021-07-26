@@ -64,14 +64,14 @@ export default {
       }
     },
     sketchMessage() {
-      if (this.$i18n.locale === 'ru') {
+      if (this.$i18n.locale === 'de') {
         return 'Эскиз'
       } else if (this.$i18n.locale === 'en') {
         return 'Sketch'
       }
     },
     illMessage() {
-      if (this.$i18n.locale === 'ru') {
+      if (this.$i18n.locale === 'de') {
         return 'Иллюстрация'
       } else if (this.$i18n.locale === 'en') {
         return 'Illustration'

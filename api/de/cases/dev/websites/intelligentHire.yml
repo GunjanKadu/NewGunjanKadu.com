@@ -1,0 +1,132 @@
+hide: false
+type: dev-site
+title: Intelligent Hire
+img:
+  src: /src/web/demoIntelligentHire.gif
+  alt: Intelligent Hire
+ux:
+  works: Human Resources
+  price: Logic
+created: '2020-08-29'
+period:
+  - '2020-08-29'
+  - '2020-10-01'
+deadline: It took 1 month to complete the task.
+preview:
+  tools:
+    - title: Design
+      tags:
+        - Figma
+    - title: Standard
+      tags:
+        - Data Structures
+        - Algorithms
+        - HTML5
+        - CSS3
+        - JavaScript
+        - TypeScript
+    - title: FrontEnd
+      tags:
+        - React.js
+    - title: Backend
+      tags:
+        - Node.js
+        - Expres js
+        - MongoDB
+    - title: Software
+      tags:
+        - Visual Studio Code
+        - SASS/SCSS
+        - Git
+    - title: Others
+      tags:
+        - Redux
+        - Rest API
+        - Material UI
+        - Firebase Real Time DB
+  roles:
+    - title: My
+      tags:
+        - UI/UX Designer
+        - Full Stack Developer
+
+client:
+  logoJPG: null
+  logoWEBP: null
+  head: Intelligent Hire
+  description: An application for human resource team or recruitment consultancies to fasten hiring process, scheduling interviews and tracking candidates.
+  issues: To assists the HR Managers / Project managers and simplify the project / hiring process in the company
+  task:
+    - User Authentication SignUp/Signin
+    - Create Different Projects / Interview process
+    - Commenting on various projects / inverview
+    - Creating Applications
+    - Tracking Applications
+    - Interview Scheduling
+    - Streamline hiring process
+    - Sending feedbacks to applicants
+    - Scheduling interviews
+done:
+  img:
+    src: B4mpQoNA2Dm
+    alt: Intelligent Hire
+    height:
+  alert:
+    message:
+  list:
+    - creating a relevance map;
+    - development of prototypes of the design layout;
+    - development of the concept of content-filling the site;
+    - formation of a palette of colors and development of a Style Guide;
+    - development of design and user interface (UI);
+    - formation of dependencies of different elements of the site;
+    - layout of the site using the Mobile First method and filling with the provided content;
+    # - development of an original and functional 404 error page;
+    # - development of scripts for calculating the cost of analyzes on service pages;
+    - implementing the logic;
+    - analysis of the correct display of the site in different browsers;
+    - analysis of the correct display of the site on modern mobile devices;
+    - launching and connecting end-to-end website analytics, tracking its effectiveness.
+    - lauching and testing the work.
+palette:
+  - type: ''
+    hex:
+      - f9a8b9
+      - FFFFFF
+typography:
+  fonts: "<link href='https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu&display=swap' rel='stylesheet'>"
+  headline: Ubuntu
+  text: Roboto
+grid:
+  cols: 12
+  width: 68
+  size: 1140
+responsive:
+  percent: '100'
+  dash:
+    Performance: '95'
+    Accessibility: '80'
+    Practices: '90'
+    Assisting: '92'
+cms: ',https://github.com/GunjanKadu/Intelligent-Hire;'
+analytics:
+  result: the conversion rate was 15%.
+  traffic:
+    show: false
+    title: Search traffic
+    type: bar
+    series:
+      - name: ''
+        data:
+      - name: Start
+        data:
+  goals:
+    show: false
+    title: Achievement of the goal
+    chart:
+      series:
+      labels:
+  conversion:
+    show: true
+    title: Conversion
+    value: ['15']

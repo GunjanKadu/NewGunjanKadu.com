@@ -94,10 +94,10 @@ v-app(v-resize='windowX')
             v-row.ma-0(dense)
               v-col(cols='6')
                 v-list-item.align-center.justify-space-between.rounded.hidden(
-                  :to='switchLocalePath("ru")',
+                  :to='switchLocalePath("de")',
                   @click.prevent='$fetch'
                 )
-                  .text-body-2.font-weight-medium Ru
+                  .text-body-2.font-weight-medium De
                   v-icon.ml-2 {{ mdiTranslate }}
 
               v-col(cols='6')
@@ -317,8 +317,7 @@ export default {
         type: 'warn',
         title: 'Attention!',
         duration: 6000,
-        text:
-          'Some pages may not be translated into this language. We are working on this and will try to translate as soon as possible.',
+        text: 'Some pages may not be translated into this language. We are working on this and will try to translate as soon as possible.',
       })
     },
     onScroll(e) {

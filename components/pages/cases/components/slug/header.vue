@@ -105,7 +105,7 @@ export default {
   methods: {
     switchDate() {
       const switchDateLocale = () => {
-        if (this.$i18n.locale === 'ru') {
+        if (this.$i18n.locale === 'de') {
           return {
             group: 'case-switch-dates',
             type: 'error',

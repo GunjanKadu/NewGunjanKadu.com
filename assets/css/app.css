@@ -22,7 +22,7 @@ html {
     }
   }
 
-  &[lang='ru-RU'] {
+  &[lang='de-DE'] {
     .v-application {
       --body-font-family: 'Manrope', sans-serif;
       --heading-font-family: 'Commissioner', sans-serif;

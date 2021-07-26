@@ -93,7 +93,7 @@ export default {
   },
   methods: {
     titleLocale(item) {
-      if (this.$i18n.locale === 'ru') {
+      if (this.$i18n.locale === 'de') {
         return item.titleRu
       } else if (this.$i18n.locale === 'en') {
         return item.titleEn

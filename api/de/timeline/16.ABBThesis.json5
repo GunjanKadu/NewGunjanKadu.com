@@ -1,0 +1,8 @@
+{
+  label: 'idea',
+  date: '2020-10-01',
+  title: 'Master Thesis - Full Time',
+  caption: 'Worked to develop a Prototype at ABB-Research Center to build a Backend System responsible for handling Data Transformation,Model Transformation in Real Time using primarily NodeJS with Angular 8, Redux . This is project is an extension to my previous work',
+  button: 'ABB-Research Center, Ladenburg',
+  to: 'https://www.campusjaeger.de/',
+}

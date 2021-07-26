@@ -115,10 +115,10 @@ v-app(v-resize='windowX')
             v-row.ma-0(dense)
               v-col(cols='6')
                 v-list-item.align-center.justify-space-between.rounded.hidden(
-                  :to='switchLocalePath("ru")',
+                  :to='switchLocalePath("de")',
                   @click.prevent='$fetch'
                 )
-                  .text-body-2.font-weight-medium Ru
+                  .text-body-2.font-weight-medium De
                   v-icon.ml-2 {{ mdiTranslate }}
 
               v-col(cols='6')

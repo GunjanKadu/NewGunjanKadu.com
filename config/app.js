@@ -1,18 +1,18 @@
 export const appMeta = {
   app: {
-    ru: {
-      title: 'Андрей Шарапов · Веб-дизайнер, Фронтенд разработчик',
+    de: {
+      title: 'Gunjan Kadu - Ui/Ux Designer, Fullstack Entwickler',
       description:
-        'Портфолио веб-разработчика с открытым исходным кодом на GitHub | Андрей Шарапов · Ui/Ux дизайнер, Frontend-разработчик',
+        'Open Source Webentwickler Portfolio auf GitHub | Gunjan Kadu - Ui/Ux Designer, Fullstack Entwickler',
       author: {
-        name: 'Андрей Шарапов',
-        short: 'sharapov',
+        name: 'Gunjan Kadu',
+        short: 'Gk',
       },
     },
     en: {
-      title: 'Gunjan Kadu · Ui/Ux Designer, Frontend Developer',
+      title: 'Gunjan Kadu · Ui/Ux Designer, Fullstack Developer',
       description:
-        'Open Source Web developer Portfolio on GitHub | Gunjan Kadu · Ui/Ux Designer, Frontend Developer',
+        'Open Source Web developer Portfolio on GitHub | Gunjan Kadu · Ui/Ux Designer, Fullstack Developer',
       author: {
         name: 'Gunjan Kadu',
         short: 'Gk',
@@ -31,7 +31,7 @@ export const appMeta = {
       status: 0,
     },
     projects: 50,
-    works: 300,
+    works: 100,
   },
 }
 

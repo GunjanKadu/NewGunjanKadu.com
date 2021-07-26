@@ -1,0 +1,120 @@
+hide: false
+type: dev-site
+title: Medical Management
+img:
+  src: /src/web/demoMedicalManagement.gif
+  alt: Medical Management
+ux:
+  works: Medical Management
+  price: Medical
+created: '2018-05-01'
+period:
+  - '2018-05-01'
+  - '2018-07-12'
+deadline: It took 2 months to complete the task.
+preview:
+  tools:
+    - title: Design
+      tags:
+        - Figma
+    - title: Standard
+      tags:
+        - Data Structures
+        - Algorithms
+        - Java
+        - XAML
+    - title: Framework
+      tags:
+        - Spring Boot
+        - Spring Security
+        - Hibernate
+    - title: Software
+      tags:
+        - Eclipse
+        - Git
+    - title: Others
+      tags:
+        - REST
+        - Thymeleaf
+  roles:
+    - title: My
+      tags:
+        - Full Stack Developer
+        - Designer
+
+client:
+  logoJPG: null
+  logoWEBP: null
+  head: Medical Management
+  description: This project was built as one of my project work. Project on Bio-Medical & Hospital sector which is covering various field of this 3 sector.
+  issues: Implenting a Bio-Medical & Hospital sector administration app.
+  task:
+    - A Clean UI explaining the workflow of the application.
+    - User Authentication SignUp/Signin
+    - Creating different accounts Doctors/Patients/
+    - Scheduling / Rescheduling appointments
+    - Creating / editing profile
+    - Communicating with doctors / patients
+    - Adding new doctors / patients
+done:
+  img:
+    src: B4mpQoNA2Dm
+    alt: Medical Management
+    height:
+  alert:
+    message:
+  list:
+    - creating a relevance map;
+    - development of prototypes of the design layout;
+    - development of the concept of content-filling the application;
+    - formation of a palette of colors and development of a Style Guide;
+    - development of design and user interface (UI);
+    - formation of dependencies of different elements of the application;
+    # - development of an original and functional 404 error page;
+    # - development of scripts for calculating the cost of analyzes on service pages;
+    - implementing the logic;
+    - analysis of the correct display of the application on different window application;
+    - lauching and testing the work.
+palette:
+  - type: ''
+    hex:
+      - 2f8de9
+      - FFFFFF
+  - type: ''
+    hex:
+      - 212529
+      - FFFFFF
+  - type: ''
+    hex:
+      - 343a40
+      - FFFFFF
+  - type: ''
+    hex:
+      - df4857
+      - FFFFFF
+typography:
+  fonts: "<link href='https://fonts.googleapis.com/css2?family=Roboto&family=Ubuntu&display=swap' rel='stylesheet'>"
+  headline: Ubuntu
+  text: Roboto
+grid:
+  cols: 12
+  width: 68
+  size: 1140
+responsive:
+  percent: '100'
+  dash:
+    Performance: '95'
+    Accessibility: '85'
+    Practices: '90'
+    Result Satisfaction: '85'
+cms: ',https://github.com/GunjanKadu/Medical-Management-System;'
+goals:
+  show: false
+  title: Achievement of the goal
+  chart:
+    series:
+    labels:
+conversion:
+  show: true
+  title: Conversion
+  value: ['16']

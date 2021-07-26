@@ -4,11 +4,11 @@ v-list.mb-1.pa-0(dense, nav)
   v-list-item-group(multiple, color='primary')
     v-row.ma-0(no-gutters)
       v-col.mr-1
-        v-list-item(:to='switchLocalePath("ru")')
+        v-list-item(:to='switchLocalePath("de")')
           v-list-item-icon
             v-icon {{ mdiTranslate }}
           v-list-item-content
-            v-list-item-title Ru
+            v-list-item-title De
       v-col.ml-1
         v-list-item(:to='switchLocalePath("en")')
           v-list-item-icon

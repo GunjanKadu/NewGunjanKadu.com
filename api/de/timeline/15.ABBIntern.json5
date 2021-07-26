@@ -1,0 +1,8 @@
+{
+  label: 'progress',
+  date: '2020-07-01',
+  title: 'Full Stack Developer - Internship',
+  caption: 'Worked as a Full stack Developer with additional resposibilities in Backend at ABB-Research Center to build a Application responsible for providing an Advance User Interface to Configure Data Transformation, Data Visualization and Real Time Model Transformation between Information Providers(Machines and Devices on the field) and Information Consumers(Dashboard,Asset Monitor...) using Angular 8, Redux, NodeJS & Express.',
+  button: 'ABB-Research Center, Ladenburg',
+  to: 'https://www.campusjaeger.de/',
+}

@@ -108,7 +108,7 @@ export default {
   },
   methods: {
     storyLocale() {
-      if (this.$i18n.locale === 'ru') {
+      if (this.$i18n.locale === 'de') {
         return {
           title: 'Что делать, если вы разработчик-одиночка?',
           path: 'https://geekbrains.ru/posts/single_developer_story',

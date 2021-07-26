@@ -117,14 +117,14 @@ export default {
   },
   methods: {
     localeDescription(item) {
-      if (this.$i18n.locale === 'ru') {
+      if (this.$i18n.locale === 'de') {
         return item.descRu
       } else if (this.$i18n.locale === 'en') {
         return item.descEn
       }
     },
     localeAlertMessage(item) {
-      if (this.$i18n.locale === 'ru') {
+      if (this.$i18n.locale === 'de') {
         return item.ru
       } else if (this.$i18n.locale === 'en') {
         return item.en

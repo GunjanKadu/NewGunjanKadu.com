@@ -83,9 +83,9 @@ export default {
   i18n: {
     locales: [
       { code: 'en', iso: 'en-US', file: 'en-US.js', name: 'En' },
-      { code: 'ru', iso: 'ru-RU', file: 'ru-RU.js', name: 'Ru' },
+      { code: 'de', iso: 'de-DE', file: 'de-DE.js', name: 'De' },
     ],
-    defaultLocale: 'ru',
+    defaultLocale: 'de',
     strategy: 'prefix',
     lazy: true,
     langDir: 'locales/',
@@ -95,7 +95,7 @@ export default {
       onlyOnRoot: true,
     },
     vueI18n: {
-      fallbackLocale: 'en',
+      fallbackLocale: 'de',
     },
     seo: true,
     baseUrl: `${appMeta.host.url}`,

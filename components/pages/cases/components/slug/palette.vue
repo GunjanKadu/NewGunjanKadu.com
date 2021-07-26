@@ -43,12 +43,12 @@ export default {
   methods: {
     copyToClipboard() {
       const copyColorLocale = () => {
-        if (this.$i18n.locale === 'ru') {
+        if (this.$i18n.locale === 'de') {
           return {
             group: 'copy-to-clipboard',
             type: 'success',
-            title: 'Скопировано',
-            text: 'Скопировано в буфер обмена.',
+            title: 'Kopiert',
+            text: 'In die Zwischenablage kopiert.',
           }
         } else if (this.$i18n.locale === 'en') {
           return {

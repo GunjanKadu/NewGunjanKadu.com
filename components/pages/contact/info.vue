@@ -40,7 +40,7 @@ export default {
   methods: {
     copyToClipboard() {
       const copyContactLocale = () => {
-        if (this.$i18n.locale === 'ru') {
+        if (this.$i18n.locale === 'de') {
           return {
             group: 'copy-to-clipboard',
             type: 'success',
