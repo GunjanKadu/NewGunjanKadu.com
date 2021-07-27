@@ -10,7 +10,7 @@
       },
     },
     title: {
-      text: 'Schedule since 2015',
+      text: 'Zeitplan seit 2015',
       align: 'left',
     },
     dataLabels: {
@@ -40,7 +40,7 @@
     ],
     xaxis: {
       title: {
-        text: 'Year',
+        text: 'Jahr',
       },
     },
     yaxis: {
@@ -62,7 +62,7 @@
               background: 'var(--v-warning-lighten2)',
             },
             offsetY: 42,
-            text: 'Projects',
+            text: 'Projekte',
           },
         },
         {
@@ -76,7 +76,7 @@
               background: 'var(--success)',
             },
             offsetY: 32,
-            text: 'Internship, India',
+            text: 'Praktikum, Indien',
           },
         },
         {
@@ -94,7 +94,7 @@
               background: 'var(--info)',
             },
             offsetY: 62,
-            text: 'Masters in Computer Science',
+            text: 'Master in Informatik',
           },
         },
         {
@@ -112,7 +112,7 @@
               background: 'var(--info)',
             },
             offsetY: 62,
-            text: 'Internship,',
+            text: 'Praktikum,',
           },
         },
         {
@@ -130,7 +130,7 @@
               background: 'var(--success)',
             },
             offsetY: 62,
-            text: 'Full Time, Germany',
+            text: 'Vollzeit, Deutschland',
           },
         },
       ],
@@ -156,19 +156,19 @@
   },
   chartSeries: [
     {
-      name: 'Web Development',
+      name: 'Web-Entwicklung',
       data: [0, 7, 12, 14, 18, 8, 14, 12],
     },
     {
-      name: 'Certifications',
+      name: 'Zertifikate',
       data: [1, 1, 4, 2, 3, 2, 1, 2],
     },
     {
-      name: 'Software Developement',
+      name: 'Software-Entwicklung',
       data: [1, 2, 1, 3, 1, 3, 4, 5],
     },
     {
-      name: 'Other works',
+      name: 'Andere Arbeiten',
       data: [10, 13, 5, 12, 0, 0, 20, 0],
     },
   ],

@@ -1,8 +1,8 @@
 {
   label: 'progress',
   date: '2020-05-01',
-  title: 'Certified Angular Developer',
-  caption: 'Today I am a Certified Angular developer.',
+  title: 'Zertifizierter Angular-Entwickler',
+  caption: 'Heute bin ich ein zertifizierter Angular-Entwickler.',
   button: 'Certificate',
   to: 'https://www.coursera.org/account/accomplishments/certificate/ZS9UL4UV8D59',
 }

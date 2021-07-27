@@ -1,8 +1,8 @@
 {
   label: 'career',
   date: '2019-09-11',
-  title: 'Front End Developer - Part Time',
-  caption: 'Worked as a Front End Developer at CampusJaeger to create a SPA (www.campusjaeger.de) using React,React-Hooks & Typescript for frontend , Redux for state management with Thunks for API calls and communication with backend and Design Implementation Using Figma, HTML5, SCSS, with proper Containerising the application for Deployment using Docker.',
+  title: 'Front End Entwickler - Teilzeit',
+  caption: 'Arbeitete als Front-End-Entwickler bei CampusJaeger an der Erstellung einer SPA (www.campusjaeger.de) unter Verwendung von React, React-Hooks & Typescript für das Frontend, Redux für die Zustandsverwaltung mit Thunks für API-Aufrufe und die Kommunikation mit dem Backend und Design-Implementierung unter Verwendung von Figma, HTML5, SCSS, mit ordnungsgemäßer Containerisierung der Anwendung für die Bereitstellung mit Docker.',
   button: 'CampusJäeger',
   to: 'https://www.campusjaeger.de/',
 }

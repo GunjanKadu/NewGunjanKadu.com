@@ -2,7 +2,7 @@
   label: 'career',
   date: '2020-03-01',
   title: 'Front End Developer - Part Time',
-  caption: 'Worked as a Front-End Developer in ABB-Research Center, Ladenburg Germanyto build BaSys 4.0 Digital Twin System with Angular 8, Redux, Java & Spring. BaSys 4.0 provides an Asset Administration Shell, i.e. an information management tool that visually tracks, analyzes and displays key performance indicators (KPI), metrics and key data points to watch the health of a business, department or specific process, with real time Data Handling, Data Visualization and cross company interoperability - the entirety ofthe digital twins creates a holistic process image that is up-to-date at all times.',
+  caption: 'Arbeitete als Front-End-Entwickler im ABB-Forschungszentrum, Ladenburg Deutschland, um BaSys 4.0 Digital Twin System mit Angular 8, Redux, Java & Spring zu bauen. BaSys 4.0 bietet eine Asset Administration Shell, d.h. ein Informationsmanagement-Tool, das Key Performance Indicators (KPI), Metriken und Schlüsseldatenpunkte visuell verfolgt, analysiert und anzeigt, um den Zustand eines Unternehmens, einer Abteilung oder eines spezifischen Prozesses zu beobachten, mit Datenhandling in Echtzeit, Datenvisualisierung und unternehmensübergreifender Interoperabilität - die Gesamtheit der digitalen Zwillinge schafft ein ganzheitliches Prozessbild, das jederzeit aktuell ist.',
   button: 'ABB-Research Center, Ladenburg',
   to: 'https://www.campusjaeger.de/',
 }

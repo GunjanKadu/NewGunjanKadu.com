@@ -1,8 +1,8 @@
 {
   label: 'career',
   date: '2013-07-01',
-  title: 'Started Bachelor in Electronics and Telecommunication Engineering',
-  caption: 'Took first step and entered the world of engineering',
+  title: 'Begonnener Bachelor in Elektronik und Telekommunikationstechnik',
+  caption: 'Machte den ersten Schritt und betrat die Welt der Technik',
   button: 'SVPCET',
   to: 'https://www.stvincentngp.edu.in/',
 }

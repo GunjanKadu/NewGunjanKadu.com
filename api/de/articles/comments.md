@@ -4,17 +4,17 @@ category:
   name: web dev
   tags: [vscode, nuxt, dev]
 
-title: VS Code Comments
-description: Comments in VS Code
+title: VS-Code Kommentare
+description: Kommentare im VS-Code
 img:
   src: 'https://images.unsplash.com/photo-1553255998-b126f284b1b9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80'
-  alt: VS Code Comments
+  alt: VS-Code Kommentare
 
 source:
 
 author:
   name: Gunjan Kadu
-  bio: UX/UI Designer, Frontend Developer
+  bio: UX/UI-Designer, Fullstack-Entwickler
   img:
     src:
     alt:

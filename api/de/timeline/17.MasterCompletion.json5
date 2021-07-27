@@ -1,8 +1,8 @@
 {
   label: 'career',
   date: '2021-03-01',
-  title: 'Graduated Msc.Computer Science',
-  caption: "Today I graduated and am entitled to Master's in Computer Science",
+  title: 'Abschluss Msc.Computer Science',
+  caption: 'Heute habe ich meinen Abschluss gemacht und bin berechtigt, einen Master in Informatik zu machen',
   button: 'Hochschule Heidelberg, Germany',
   to: 'https://www.hochschule-heidelberg.de/',
 }

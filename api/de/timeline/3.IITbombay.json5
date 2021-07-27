@@ -1,8 +1,8 @@
 {
   label: 'progress',
   date: '2016-05-23',
-  title: 'TOP 3 in TechFest, IIT Bombay',
-  caption: 'Finished in the top 3 at the global programming event (Master & Slave) organized by IIT bombay',
+  title: 'TOP 3 beim TechFest, IIT Bombay',
+  caption: 'Platz unter den Top 3 beim globalen Programmier-Event (Master & Slave), das vom IIT bombay organisiert wurde',
   button: 'IIT Bombay TechFest',
   to: 'https://www.techfest.org/',
 }

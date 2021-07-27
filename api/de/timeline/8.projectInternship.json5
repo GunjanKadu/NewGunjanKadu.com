@@ -1,8 +1,8 @@
 {
   label: 'idea',
   date: '2018-04-18',
-  title: 'Industrial Solar Panel Dashboard',
-  caption: 'Completed the development of a industrial standard solar panel dashboard made using Vanilla JS, Node JS, HTML & CSS',
+  title: 'Industrielles Solarmodul Dashboard',
+  caption: 'Abgeschlossene Entwicklung eines Solarpanel-Dashboards nach Industriestandard, das mit Vanilla JS, Node JS, HTML & CSS erstellt wurde',
   button: 'VS Informatics',
   to: 'https://www.vsinformatics.org/',
 }

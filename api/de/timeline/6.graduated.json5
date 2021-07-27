@@ -1,8 +1,8 @@
 {
   label: 'career',
   date: '2017-05-16',
-  title: 'Graduated',
-  caption: 'In October 2017, I successfully graduated with 8.5/10. ',
+  title: 'Graduiert',
+  caption: 'Im Oktober 2017 habe ich erfolgreich mit 8,5/10 abgeschlossen. ',
   button: 'SVPCET',
   to: 'https://www.stvincentngp.edu.in/',
 }
