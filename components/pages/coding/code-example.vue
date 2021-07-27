@@ -54,7 +54,7 @@ export default {
   methods: {
     localeDescription(item) {
       if (this.$i18n.locale === 'de') {
-        return item.descRu
+        return item.descDe
       } else if (this.$i18n.locale === 'en') {
         return item.descEn
       }

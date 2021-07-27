@@ -71,7 +71,7 @@ export default {
     },
     certLocale(item) {
       if (this.$i18n.locale === 'de') {
-        return item.ru
+        return item.de
       } else if (this.$i18n.locale === 'en') {
         return item.en
       }

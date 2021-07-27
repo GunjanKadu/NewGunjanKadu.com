@@ -44,8 +44,8 @@ export default {
           return {
             group: 'copy-to-clipboard',
             type: 'success',
-            title: 'Скопировано',
-            text: 'Скопировано в буфер обмена.',
+            title: 'Kopiert',
+            text: 'In die Zwischenablage kopiert.',
           }
         } else if (this.$i18n.locale === 'en') {
           return {

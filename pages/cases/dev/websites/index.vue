@@ -48,7 +48,7 @@
 
         <!-- SECTION CMS -->
         <v-col cols="12">
-          <s-section-heading-anchor title="CMS" anchor="cms" />
+          <s-section-heading-anchor title="WEB / SOFTWARE" anchor="cms" />
           <p>
             {{ $t('pages.dev-site.cms') }}
           </p>
@@ -167,7 +167,6 @@ export default {
       .where({ type: 'dev-site', hide: false })
       .sortBy('created', 'desc')
       .fetch()
-    console.log(devSiteLocale)
     return {
       skills,
       chart,

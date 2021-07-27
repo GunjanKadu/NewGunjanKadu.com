@@ -16,10 +16,10 @@ chartOptions:
         zoomin: false
         zoomout: false
   title:
-    text: Website development 2018 - 2021
+    text: Entwicklung einer Website 2018 - 2021
     align: left
   subtitle:
-    text: 'Experience with building full stack web applications'
+    text: 'Erfahrung mit der Entwicklung von Full-Stack-Webanwendungen'
   foreColor: var(--light)
   grid:
     show: true
@@ -83,10 +83,10 @@ chartOptions:
     fontWeight: 400
   xaxis:
     title:
-      text: Год
+      text: Jahr
   yaxis:
     title:
-      text: Number of works by year
+      text: Anzahl der Werke nach Jahr
   colors:
     - 'var(--orange)'
     - '#fbd83d'
@@ -115,7 +115,7 @@ chartOptions:
             color: var(--light)
             background: var(--red)
           offsetY: 0
-          text: 'Major project'
+          text: 'Großprojekt'
     yaxis:
       - y:
         y2:

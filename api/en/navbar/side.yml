@@ -18,10 +18,10 @@ data:
           - action: '$mdiVectorCurve'
             title: Illustrations
             to: '/en/cases/design/illustrations'
-          - action: '$mdiOrderBoolAscendingVariant'
-            title: Quiz
-            to: '/en/cases/design/quiz'
-            disabled: true
+          # - action: '$mdiOrderBoolAscendingVariant'
+          #   title: Quiz
+          #   to: '/en/cases/design/quiz'
+          #   disabled: true
         title: Design
         to: '/en/cases/design'
       - action: '$mdiDevices'
@@ -30,12 +30,13 @@ data:
             title: Website
             to: '/en/cases/dev/websites'
           - action: '$mdiTabletCellphone'
-            title: Apps
-            to: '/en/cases/dev/apps'
-            disabled: true
-          - action: '$mdiVectorBezier'
-            title: HTML5 Banners
-            to: '/en/cases/dev/banners'
+          #   title: Apps
+          #   to: '/en/cases/dev/apps'
+          #   disabled: true
+          # - action: '$mdiVectorBezier'
+          #   title: HTML5 Banners
+          #   to: '/en/cases/dev/banners'
+          #   disabled: true
         title: Development
         to: '/en/cases/dev'
       - action: '$mdiDotsHorizontal'
@@ -49,10 +50,10 @@ data:
           - action: '$mdiCodeJson'
             title: Pure Code
             to: '/en/works/coding'
-          - action: '$mdiEmailSyncOutline'
-            disabled: true
-            title: Email
-            to: '/ru/works/email'
+          # - action: '$mdiEmailSyncOutline'
+          #   disabled: true
+          #   title: Email
+          #   to: '/en/works/email'
         title: More
     title: Work
     to: '/en/cases'

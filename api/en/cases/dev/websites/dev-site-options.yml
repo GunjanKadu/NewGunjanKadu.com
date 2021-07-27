@@ -83,7 +83,7 @@ chartOptions:
     fontWeight: 400
   xaxis:
     title:
-      text: Год
+      text: Year
   yaxis:
     title:
       text: Number of works by year

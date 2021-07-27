@@ -94,7 +94,7 @@ export default {
   methods: {
     titleLocale(item) {
       if (this.$i18n.locale === 'de') {
-        return item.titleRu
+        return item.titleDe
       } else if (this.$i18n.locale === 'en') {
         return item.titleEn
       }

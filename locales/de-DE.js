@@ -247,7 +247,7 @@ export default {
       },
     },
     'dev-site': {
-      cms: 'Ich habe 2010 angefangen, Webentwicklung zu lernen. Dies war meine erste Kenntnis der Webentwicklung, die schließlich zu einem Hobby wurde. Im Laufe der Jahre habe ich gelernt, mit HTML, CSS, JS zu arbeiten und habe mit verschiedenen Content-Management-Systemen (CMS) gearbeitet. Aber mit der vollwertigen Website-Entwicklung habe ich erst 2018 begonnen, als ich lernte, wie man Websites auf WordPress erstellt und einen Job als Webentwickler bekam.',
+      cms: 'Ich habe 2016 begonnen, Web-/Softwareentwicklung zu lernen. Dies war meine erste Kenntnis der Webentwicklung, die schließlich zu einem Hobby wurde. Im Laufe der Jahre habe ich gelernt, mit Java, C# und JS zu arbeiten und habe mit verschiedenen Frameworks gearbeitet. Aber ich habe erst 2018 mit der Full-Stack-Webentwicklung begonnen, als ich gelernt habe, wie man Websites mit verschiedenen Frontend- und Backend-Frameworks erstellt.',
       message:
         'Indem Sie sich meine Arbeiten ansehen, können Sie meine berufliche Entwicklung und die Fähigkeiten, die ich besitze, erkennen. Finden Sie heraus, ob sie Ihren Anforderungen entsprechen, bevor Sie sich entscheiden, einen Auftrag zu erteilen.',
     },

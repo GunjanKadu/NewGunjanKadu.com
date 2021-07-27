@@ -109,8 +109,8 @@ export default {
           return {
             group: 'case-switch-dates',
             type: 'error',
-            title: 'Переключение даты',
-            text: 'Вы пытаетесь изменить период разработки. Извините, но это невозможно.',
+            title: 'Datumswechsel',
+            text: 'Sie versuchen, den Entwicklungszeitraum zu ändern. Das ist leider nicht möglich.',
           }
         } else if (this.$i18n.locale === 'en') {
           return {

@@ -118,14 +118,14 @@ export default {
   methods: {
     localeDescription(item) {
       if (this.$i18n.locale === 'de') {
-        return item.descRu
+        return item.descDe
       } else if (this.$i18n.locale === 'en') {
         return item.descEn
       }
     },
     localeAlertMessage(item) {
       if (this.$i18n.locale === 'de') {
-        return item.ru
+        return item.de
       } else if (this.$i18n.locale === 'en') {
         return item.en
       }
