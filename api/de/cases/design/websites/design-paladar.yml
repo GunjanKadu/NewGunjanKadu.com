@@ -1,9 +1,9 @@
 hide: false
 type: des-site
-title: App design "Paladar"
+title: Gestaltung der App "Paladar"
 img:
   src: https://cdn.dribbble.com/users/8580830/screenshots/16075381/media/6c8e013ececf229c0563b40319e587ab.jpg?compress=1&resize=1200x900
-  alt: App design "Paladar"
+  alt: Gestaltung der App "Paladar"
 ux:
   works: REDESIGN
   price: Prototyping and design
@@ -11,7 +11,7 @@ created: '2019-11-05'
 period:
   - '2020-05-04'
   - '2020-05-06'
-deadline: The task took about approximately 20 hours to complete.
+deadline: Die Aufgabe nahm etwa 20 Stunden in Anspruch.
 preview:
   tools:
     - title: Design
@@ -29,25 +29,25 @@ preview:
 client:
   logoJPG:
   logoWEBP:
-  head: App redesign "Paladar"
-  description: The idea of this project was taken by ‘Swiggy’ a food delivery service which provides parcels from all the restaurants near the clients location (in my home country India). We first decided the name as ‘Palate’ but then we wanted something attractive than usual then we chose the Spanish word for Palate which is ‘Paladar’. Me and Anika personally loved this name. Swiggy is one of the best food delivery service application in India. To re-think something which already exist is itself a big task. Obviously, the first step was to observe the similar featured application to find out the problems and to add the needy feature to come up with the good outcome. After the research we found out very interesting things, e.g. Spacing in the context, importance of buttons, and the speed of execution (animation speed and so on).
+  head: Neugestaltung der App "Paladar"
+  description: Die Idee zu diesem Projekt stammt von "Swiggy", einem Lebensmittel-Lieferdienst, der Pakete von allen Restaurants in der Nähe des Kundenstandorts (in meinem Heimatland Indien) liefert. Zunächst hatten wir uns für den Namen "Palate" entschieden, aber dann wollten wir etwas Attraktiveres als das Übliche und wählten das spanische Wort für Palate, nämlich "Paladar". Mir und Anika gefiel dieser Name sehr gut. Swiggy ist einer der besten Essenslieferdienste in Indien. Etwas, das bereits existiert, neu zu denken, ist eine große Aufgabe für sich. Natürlich war der erste Schritt die Beobachtung einer ähnlichen Anwendung, um die Probleme herauszufinden und die benötigten Funktionen hinzuzufügen, um ein gutes Ergebnis zu erzielen. Nach der Recherche fanden wir sehr interessante Dinge heraus, z.B. die Abstände im Kontext, die Wichtigkeit von Schaltflächen und die Geschwindigkeit der Ausführung (Animationsgeschwindigkeit usw.).
   issues:
   task:
-    - in attempt to redesign an existing app in a better way.
+    - in dem Versuch, eine bestehende Anwendung besser zu gestalten.
 done:
   img:
     src: B4dTsxIAc1E
-    alt: Landing page design "Reddit"
+    alt: Gestaltung der Landing Page "Paladar"
     height:
   alert:
     message:
   list:
-    - redesign planning and development of the conceptual component;
-    - notice the positions of all the icons and importance of them in front (every icon specified in front has its own reason and comfort to users)
-    - 'analysis, review of other redesign: functionality, number of users, ratings, reviews;'
-    - formation of a palette of colors, typography, and element states;
-    - development of prototypes of the design layout;
-    - design and user interface (UI) development.
+    - Neugestaltung der Planung und Entwicklung der konzeptionellen Komponente;
+    - Beachtung der Positionen aller Icons und ihrer Bedeutung im Vordergrund (jedes im Vordergrund stehende Icon hat seinen eigenen Grund und ist für die Nutzer angenehm)
+    - Analyse, Überprüfung anderer Redesigns, Funktionalität, Anzahl der Nutzer, Bewertungen, Rezensionen;".
+    - Bildung einer Palette von Farben, Typografie und Elementstatus;
+    - Entwicklung von Prototypen für das Design-Layout;
+    - Design und Entwicklung der Benutzeroberfläche (UI).
 palette:
   - type: ''
     hex:

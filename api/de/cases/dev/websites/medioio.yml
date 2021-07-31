@@ -11,7 +11,7 @@ created: '2020-04-11'
 period:
   - '2020-04-11'
   - '2020-05-20'
-deadline: It took 1 month to complete the task.
+deadline: Es dauerte 1 Monat, bis die Aufgabe abgeschlossen war.
 preview:
   tools:
     - title: Design
@@ -39,29 +39,29 @@ preview:
     - title: My
       tags:
         - UI/UX Designer
-        - Frontend Developer
+        - Frontend-Entwickler
 
 client:
   logoJPG: null
   logoWEBP: null
   head: MediaIO
-  description: What if youtube was designed to be used as music player? Media.io is a media player based on youtube, providing a beautiful User experience as a Music Player in watching Youtube videos. Made with Angular 8 & Bootstrap It can be regarded as the Media Player experience for youtube listening pleasure.
-  issues: To build a hassle free Video Streaming app
+  description: Was wäre, wenn Youtube als Musikplayer genutzt werden könnte? Media.io ist ein Mediaplayer, der auf Youtube basiert und eine schöne Benutzererfahrung als Musikplayer beim Ansehen von Youtube-Videos bietet. Hergestellt mit Angular 8 & Bootstrap Es kann als Media Player Erfahrung für Youtube Hörvergnügen betrachtet werden.
+  issues: So erstellen Sie eine problemlose Video-Streaming-Anwendung
   task:
-    - User Authentication SignUp/Signin
-    - Users can search for and watch videos.
-    - Create a personal channel.
-    - Like/Comment/share other videos.
-    - Users can subscribe/follow other channels and users.
-    - Upload Videos In real time and see the preview
-    - Download Videos
-    - Create playlists to organize videos and group videos together.
-    - See if users is online or offline
-    - Star a Channel and add To Your Favs
-    - Info About the Channel Created
-    - Analytics such as top poster in the channel
-    - Theme picker for users to choose different themes for the application
-    - Edit User image crop,resize
+    - Benutzerauthentifizierung SignUp/Signin
+    - Benutzer können nach Videos suchen und diese ansehen.
+    - Einen persönlichen Kanal erstellen.
+    - Andere Videos mögen/kommentieren/freigeben.
+    - Nutzer können andere Kanäle und Nutzer abonnieren/folgen.
+    - Videos in Echtzeit hochladen und eine Vorschau anzeigen
+    - Videos herunterladen
+    - Wiedergabelisten erstellen, um Videos zu organisieren und in Gruppen zusammenzufassen.
+    - Sehen, ob Nutzer online oder offline sind
+    - Einen Kanal mit einem Stern versehen und zu den Favoriten hinzufügen
+    - Informationen über den erstellten Kanal
+    - Analysen wie z.B. Top-Poster im Kanal
+    - Themenauswahl für Benutzer, um verschiedene Themen für die Anwendung zu wählen
+    - Benutzerbild bearbeiten, zuschneiden, Größe ändern
 done:
   img:
     src: B4mpQoNA2Dm
@@ -70,21 +70,21 @@ done:
   alert:
     message:
   list:
-    - creating a relevance map;
-    - development of prototypes of the design layout;
-    - development of the concept of content-filling the site;
-    - formation of a palette of colors and development of a Style Guide;
-    - development of design and user interface (UI);
-    - formation of dependencies of different elements of the site;
-    - layout of the site using the Mobile First method and filling with the provided content;
-    # - development of an original and functional 404 error page;
-    # - development of scripts for calculating the cost of analyzes on service pages;
-    - implementing the logic;
-    - adding animations to the logics;
-    - analysis of the correct display of the site in different browsers;
-    - analysis of the correct display of the site on modern mobile devices;
-    - launching and connecting end-to-end website analytics, tracking its effectiveness.
-    - lauching and testing the work.
+    - Erstellung einer Relevanzkarte;
+    - Entwicklung von Prototypen für das Design-Layout;
+    - Entwicklung des Konzepts für die inhaltliche Füllung der Website;
+    - Bildung einer Farbpalette und Entwicklung eines Style Guide;
+    - Entwicklung des Designs und der Benutzeroberfläche (UI);
+    - Bildung von Abhängigkeiten zwischen den verschiedenen Elementen der Website;
+    - Layout der Website unter Verwendung der Mobile-First-Methode und Befüllung mit den bereitgestellten Inhalten;
+    # - Entwicklung einer originellen und funktionellen 404-Fehlerseite;
+    # - Entwicklung von Skripten zur Berechnung der Kosten von Analysen auf Serviceseiten;
+    - Implementierung der Logik;
+    - Hinzufügen von Animationen zu den Logiken;
+    - Analyse der korrekten Darstellung der Website in verschiedenen Browsern;
+    - Analyse der korrekten Darstellung der Website auf modernen mobilen Geräten;
+    - Einführung und Anbindung einer End-to-End-Analyse der Website, Nachverfolgung ihrer Wirksamkeit.
+    - Inbetriebnahme und Testen der Arbeit.
 palette:
   - type: ''
     hex:
@@ -113,17 +113,17 @@ grid:
 responsive:
   percent: '100'
   dash:
-    Performance: '82'
-    Accessibility: '85'
-    Practices: '85'
+    Leistung: '82'
+    Zugänglichkeit: '85'
+    Praktiken: '85'
     VideoStreaming: '95'
 cms: ',https://github.com/GunjanKadu/Media.io;'
 
 analytics:
-  result: the conversion rate was 16%.
+  result: lag die Umwandlungsrate bei 16 %.
   traffic:
     show: false
-    title: Search traffic
+    title: Suchverkehr
     type: bar
     series:
       - name: ''
@@ -132,11 +132,11 @@ analytics:
         data:
   goals:
     show: false
-    title: Achievement of the goal
+    title: Erreichung des Ziels
     chart:
       series:
       labels:
   conversion:
     show: true
-    title: Conversion
+    title: Umrechnung
     value: ['16']

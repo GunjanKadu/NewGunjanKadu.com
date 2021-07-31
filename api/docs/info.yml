@@ -2,20 +2,20 @@ content:
   information:
     - icon: '$mdiShieldLock'
       model: false
-      title: Конфиденциальность
+      title: privacy
       to: privacy
       type: green accent-1
       update: '2017-02-25'
-    - icon: '$mdiAccountCheckOutline'
-      model: false
-      title: Соглашение
-      to: terms
-      type: 'light-blue lighten-5'
-      update: '2021-02-17'
+    # - icon: '$mdiAccountCheckOutline'
+    #   model: false
+    #   title: Соглашение
+    #   to: terms
+    #  type: 'light-blue lighten-5'
+    #  update: '2021-02-17'
   license:
     icon: '$mdiLicense'
     subtitle: MIT License
-    title: Лицензия
+    title: License
     to: 'https://github.com/GunjanKadu/NewGunjanKadu.com/blob/master/LICENSE'
     type: 'amber lighten-4'
   message: ''

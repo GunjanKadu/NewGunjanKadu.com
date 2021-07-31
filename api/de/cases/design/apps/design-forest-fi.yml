@@ -1,9 +1,9 @@
 hide: false
 type: des-site
-title: Landing page design "Forest-Fi"
+title: Gestaltung der Landing Page "Forest-Fi"
 img:
   src: https://cdn.dribbble.com/users/2241643/screenshots/7971597/media/6f96fc0f8fac7cb3ed9f523339630722.png?compress=1&resize=1000x750
-  alt: Landing page design "Forest-Fi"
+  alt: Gestaltung der Landing Page "Forest-Fi"
 ux:
   works: PET PROJECT / EXPERIENCE
   price: Prototyping and design
@@ -11,7 +11,7 @@ created: '2019-11-05'
 period:
   - '2019-11-04'
   - '2019-11-05'
-deadline: The task took about 20 hours to complete.
+deadline: Die Aufgabe dauerte etwa 20 Stunden.
 preview:
   tools:
     - title: Design
@@ -19,9 +19,9 @@ preview:
         - Figma
         - Adobe Illustrator
   roles:
-    - title: My
+    - title: Meine
       tags:
-        - Ux/Ui Designer / Visual Designer
+        - Ux/Ui Designer / Visueller Designer
   to:
     dribbble: https://dribbble.com/shots/7971597-Forest-Fi-unlimited-free-internet-worldwide
     behance: https://www.behance.net/gallery/87728433/Wi-Fi-Free-in-Every-Tree
@@ -29,27 +29,27 @@ preview:
 client:
   logoJPG:
   logoWEBP:
-  head: Landing page design "Forest-Fi"
-  description: Forest-Fi is an international organization dedicated to finding and developing free and unlimited Internet access from anywhere in the world. The concept is based on micro-vibrations between the plants of our planet, which are especially pronounced in trees. Based on these vibrations, the company's researchers have developed a way to transmit data without special equipment and providers.
+  head: Gestaltung der Landing Page "Forest-Fi"
+  description: Forest-Fi ist eine internationale Organisation, die sich der Suche und Entwicklung eines kostenlosen und unbegrenzten Internetzugangs von jedem Ort der Welt aus widmet. Das Konzept basiert auf Mikrovibrationen zwischen den Pflanzen unseres Planeten, die bei Bäumen besonders ausgeprägt sind. Auf der Grundlage dieser Schwingungen haben die Forscher des Unternehmens eine Möglichkeit entwickelt, Daten ohne spezielle Geräte und Anbieter zu übertragen.
   issues:
   task:
-    - attracting potential customers and converting them to target audience.
+    - potenzielle Kunden anzusprechen und sie in eine Zielgruppe zu verwandeln.
 done:
   img:
     src: B4dTsxIAc1E
-    alt: Landing page design "Forest-Fi"
+    alt: Gestaltung der Landing Page "Forest-Fi"
     height:
   alert:
     message:
   list:
-    - product planning and development of the conceptual component;
-    - preliminary analysis of the market and target audience;
-    - 'analysis, review of similar solutions: functionality, number of users, ratings, reviews, monetization;'
-    - corporate identity development;
-    - formation of a palette of colors, typography, and element states;
-    - development of prototypes of the design layout;
-    - writing original texts;
-    - design and user interface (UI) development.
+    - Produktplanung und Entwicklung der konzeptionellen Komponente;
+    - vorläufige Analyse des Marktes und der Zielgruppe;
+    - Analyse, Überprüfung ähnlicher Lösungen, Funktionalität, Anzahl der Nutzer, Bewertungen, Rezensionen, Monetarisierung;".
+    - Entwicklung der Corporate Identity;
+    - Bildung einer Palette von Farben, Typografie und Elementstatus;
+    - Entwicklung von Prototypen für das Design-Layout;
+    - Schreiben von Originaltexten;
+    - Design und Entwicklung der Benutzeroberfläche (UI).
 palette:
   - type: ''
     hex:

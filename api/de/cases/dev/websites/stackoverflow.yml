@@ -11,7 +11,7 @@ created: '2020-09-01'
 period:
   - '2020-09-01'
   - '2021-02-01'
-deadline: It took 5 months to complete the task.
+deadline: Es dauerte 5 Monate, bis die Aufgabe abgeschlossen war.
 preview:
   tools:
     - title: Design
@@ -49,28 +49,28 @@ preview:
     - title: My
       tags:
         - UI/UX Designer
-        - Full stack Developer
+        - Full-Stack-Entwickler
 client:
   logoJPG: null
   logoWEBP: null
   head: StackOverflow
-  description: This project was built out of curiosity to replicate the famous stack overflow application
-  issues: Replication a famous developers community platform
+  description: Dieses Projekt wurde aus Neugierde entwickelt, um die berühmte Stack Overflow-Anwendung zu replizieren
+  issues: Replikation einer bekannten Entwickler-Community-Plattform
   task:
-    - User Authentication SignUp/Signin
-    - Create Different Posts
-    - Comment on Different Post in Real time
-    - Comment privately or in the group
-    - Send Real Time Comments
-    - Upload Question in real time
-    - Search for a Particular post
-    - Search tag wise
-    - Search for top users.
-    - Star a post
-    - Analytics such as top user in the community and Top replies
-    - Theme picker for users to choose different themes for the application
-    - Edit User image crop,resize
-    - Emoji Support
+    - Benutzerauthentifizierung SignUp/Signin
+    - Verschiedene Beiträge erstellen
+    - Kommentar zu verschiedenen Beiträgen in Echtzeit
+    - Privat oder in der Gruppe kommentieren
+    - Kommentare in Echtzeit senden
+    - Frage in Echtzeit hochladen
+    - Suche nach einem bestimmten Beitrag
+    - Tag-weise suchen
+    - Suche nach Top-Benutzern.
+    - Einen Beitrag mit einem Stern versehen
+    - Analysen wie Top-Nutzer in der Community und Top-Antworten
+    - Themenauswahl für Benutzer, um verschiedene Themen für die Anwendung zu wählen
+    - Benutzerbild bearbeiten, zuschneiden, Größe ändern
+    - Emoji-Unterstützung
 done:
   img:
     src: B4mpQoNA2Dm
@@ -79,21 +79,21 @@ done:
   alert:
     message:
   list:
-    - creating a relevance map;
-    - development of prototypes of the design layout;
-    - development of the concept of content-filling the site;
-    - formation of a palette of colors and development of a Style Guide;
-    - development of design and user interface (UI);
-    - formation of dependencies of different elements of the site;
-    - layout of the site using the Mobile First method and filling with the provided content;
-    # - development of an original and functional 404 error page;
-    # - development of scripts for calculating the cost of analyzes on service pages;
-    - implementing the logic;
-    - adding animations to the logics;
-    - analysis of the correct display of the site in different browsers;
-    - analysis of the correct display of the site on modern mobile devices;
-    - launching and connecting end-to-end website analytics, tracking its effectiveness.
-    - lauching and testing the work.
+    - Erstellung einer Relevanzkarte;
+    - Entwicklung von Prototypen für das Design-Layout;
+    - Entwicklung des Konzepts für die inhaltliche Füllung der Website;
+    - Bildung einer Farbpalette und Entwicklung eines Style Guide;
+    - Entwicklung des Designs und der Benutzeroberfläche (UI);
+    - Bildung von Abhängigkeiten zwischen den verschiedenen Elementen der Website;
+    - Layout der Website unter Verwendung der Mobile-First-Methode und Befüllung mit den bereitgestellten Inhalten;
+    # - Entwicklung einer originellen und funktionellen 404-Fehlerseite;
+    # - Entwicklung von Skripten zur Berechnung der Kosten von Analysen auf Serviceseiten;
+    - Implementierung der Logik;
+    - Hinzufügen von Animationen zu den Logiken;
+    - Analyse der korrekten Darstellung der Website in verschiedenen Browsern;
+    - Analyse der korrekten Darstellung der Website auf modernen mobilen Geräten;
+    - Einführung und Anbindung einer End-to-End-Analyse der Website, Nachverfolgung ihrer Wirksamkeit.
+    - Inbetriebnahme und Testen der Arbeit.
 palette:
   - type: ''
     hex:
@@ -122,16 +122,16 @@ grid:
 responsive:
   percent: '100'
   dash:
-    Performance: '95'
-    Accessibility: '85'
-    Practices: '90'
-    RealTime: '100'
+    Leistung: '95'
+    Zugänglichkeit: '85'
+    Praktiken: '90'
+    Echtzeit: '100'
 cms: 'https://stack-over-flow-final-gunjankadu.vercel.app/,https://github.com/GunjanKadu/StackOverFlowFinal;'
 analytics:
-  result: the conversion rate was 16%.
+  result: lag die Umwandlungsrate bei 16 %.
   traffic:
     show: true
-    title: Search traffic
+    title: Suchverkehr
     type: bar
     series:
       - name: ''
@@ -176,11 +176,11 @@ analytics:
           - 90
   goals:
     show: false
-    title: Achievement of the goal
+    title: Erreichung des Ziels
     chart:
       series:
       labels:
   conversion:
     show: true
-    title: Conversion
+    title: Umrechnung
     value: ['16']

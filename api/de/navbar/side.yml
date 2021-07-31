@@ -39,22 +39,22 @@ data:
           #   disabled: true
         title: Entwicklung
         to: '/de/cases/dev'
-      - action: '$mdiDotsHorizontal'
-        child:
-          - action: '$mdiDraw'
-            title: Zeichnungen
-            to: '/de/works/drawings'
-          - action: '$mdiVectorPolylineEdit'
-            title: Photoshop
-            to: '/de/works/photoshop'
-          - action: '$mdiCodeJson'
-            title: Pure Code
-            to: '/de/works/coding'
-          # - action: '$mdiEmailSyncOutline'
-          #   disabled: false
-          #   title: Email
-          #   to: '/de/works/email'
-        title: Mehr
+      # - action: '$mdiDotsHorizontal'
+      # child:
+      # - action: '$mdiDraw'
+      #   title: Zeichnungen
+      #  to: '/de/works/drawings'
+      # - action: '$mdiVectorPolylineEdit'
+      #   title: Photoshop
+      #   to: '/de/works/photoshop'
+      # - action: '$mdiCodeJson'
+      #  title: Pure Code
+      #  to: '/de/works/coding'
+      # - action: '$mdiEmailSyncOutline'
+      #   disabled: false
+      #   title: Email
+      #   to: '/de/works/email'
+      #title: Mehr
     title: Arbeit
     to: '/en/cases'
   # - action: '$mdiScriptText'
@@ -84,15 +84,15 @@ data:
       - action: '$mdiTimelineOutline'
         title: Zeitleiste
         to: '/de/timeline'
-      - action: '$mdiLightbulbOnOutline'
-        title: Projekte
-        to: '/de/projects'
+      # - action: '$mdiLightbulbOnOutline'
+      #   title: Projekte
+      #   to: '/de/projects'
       - action: '$mdiContactsOutline'
         title: Kontakt
         to: '/de/contact'
-      - action: '$mdiBookOpenPageVariantOutline'
-        title: Artikel
-        to: '/de/articles'
+      # - action: '$mdiBookOpenPageVariantOutline'
+      #   title: Artikel
+      #   to: '/de/articles'
       - action: '$mdiDotsHorizontal'
         child:
           - action: '$mdiVideoWirelessOutline'

@@ -8,7 +8,7 @@ v-card.poll(color='purple')
 
     v-card.rounded-lg(tile, height='90vh')
       iframe(
-        src='https://docs.google.com/forms/d/e/1FAIpQLSffkofhguj2ELiwL4sZMZN8aUromT852L6eN6HjepomEZZC6Q/viewform?embedded=true',
+        src='https://docs.google.com/forms/d/e/1FAIpQLSfSfj38hjy09fhuqRF-W85oCaqV-dqMbwBAbEyFSsvXM_S9GA/viewform?embedded=true',
         width='100%',
         height='100%',
         frameborder='0',

@@ -29,7 +29,7 @@ data:
           - action: '$mdiResponsive'
             title: Website
             to: '/en/cases/dev/websites'
-          - action: '$mdiTabletCellphone'
+          #- action: '$mdiTabletCellphone'
           #   title: Apps
           #   to: '/en/cases/dev/apps'
           #   disabled: true
@@ -39,22 +39,22 @@ data:
           #   disabled: true
         title: Development
         to: '/en/cases/dev'
-      - action: '$mdiDotsHorizontal'
-        child:
-          - action: '$mdiDraw'
-            title: Drawings
-            to: '/en/works/drawings'
-          - action: '$mdiVectorPolylineEdit'
-            title: Photoshop
-            to: '/en/works/photoshop'
-          - action: '$mdiCodeJson'
-            title: Pure Code
-            to: '/en/works/coding'
-          # - action: '$mdiEmailSyncOutline'
-          #   disabled: true
-          #   title: Email
-          #   to: '/en/works/email'
-        title: More
+      #- action: '$mdiDotsHorizontal'
+      #child:
+      #- action: '$mdiDraw'
+      #  title: Drawings
+      #  to: '/en/works/drawings'
+      # - action: '$mdiVectorPolylineEdit'
+      #   title: Photoshop
+      #   to: '/en/works/photoshop'
+      # - action: '$mdiCodeJson'
+      # title: Pure Code
+      # to: '/en/works/coding'
+      # - action: '$mdiEmailSyncOutline'
+      #   disabled: true
+      #   title: Email
+      #   to: '/en/works/email'
+      #title: More
     title: Work
     to: '/en/cases'
   # - action: '$mdiScriptText'
@@ -84,15 +84,15 @@ data:
       - action: '$mdiTimelineOutline'
         title: Timeline
         to: '/en/timeline'
-      - action: '$mdiLightbulbOnOutline'
-        title: Projects
-        to: '/en/projects'
+      # - action: '$mdiLightbulbOnOutline'
+      #   title: Projects
+      #   to: '/en/projects'
       - action: '$mdiContactsOutline'
         title: Contact
         to: '/en/contact'
-      - action: '$mdiBookOpenPageVariantOutline'
-        title: Articles
-        to: '/en/articles'
+      # - action: '$mdiBookOpenPageVariantOutline'
+      #   title: Articles
+      #   to: '/en/articles'
       - action: '$mdiDotsHorizontal'
         child:
           - action: '$mdiVideoWirelessOutline'

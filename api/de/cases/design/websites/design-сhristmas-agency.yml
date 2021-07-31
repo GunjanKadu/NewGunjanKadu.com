@@ -1,9 +1,9 @@
 hide: false
 type: des-site
-title: Landing Christmas agency «Ho-Ho-Ho»
+title: Landung der Weihnachtsagentur "Ho-Ho-Ho"
 img:
   src: https://cdn.dribbble.com/users/2241643/screenshots/9025858/media/a879ebb4a866b3950c402d860d5e6048.png?compress=1
-  alt: Landing Christmas agency «Ho-Ho-Ho»
+  alt: Landung der Weihnachtsagentur "Ho-Ho-Ho"
 ux:
   works: PET PROJECT / EXPERIENCE
   price: Prototyping and design
@@ -11,7 +11,7 @@ created: '2019-12-13' #test '2021-04-24'
 period:
   - '2019-12-13'
   - '2019-12-14'
-deadline: The task took about 9 hours to complete.
+deadline: Die Aufgabe dauerte etwa 9 Stunden.
 preview:
   tools:
     - title: Design
@@ -20,7 +20,7 @@ preview:
   roles:
     - title: My
       tags:
-        - Ux/Ui Designer / Visual Designer
+        - Ux/Ui Designer / Visueller Designer
     - title: Other
       tags:
         - 'Model: Mari Gladkaya'
@@ -31,22 +31,22 @@ preview:
 client:
   logoJPG:
   logoWEBP:
-  head: Christmas agency «Ho-Ho-Ho»
-  description: An agency that organizes New Years' for people who do not have enough time to do it on their own.
+  head: Weihnachtsagentur "Ho-Ho-Ho"
+  description: Eine Agentur, die Neujahrsfeiern für Menschen organisiert, die nicht genug Zeit haben, um sie selbst zu organisieren.
   issues:
-  task: attracting customers and converting them to the target audience.
+  task: Kunden anzuziehen und sie zur Zielgruppe zu machen.
 done:
   img:
     src: B6CHIHtApE_
-    alt: Christmas agency «Ho-Ho-Ho»
+    alt: Weihnachtsagentur "Ho-Ho-Ho"
     height:
   alert:
     message:
   list:
-    - corporate identity development;
-    - formation of a palette of colors, typography, and element states;
-    - development of prototypes of the design layout;
-    - design and user interface (UI) development.
+    - Entwicklung der Corporate Identity;
+    - Bildung einer Palette von Farben, Typografie und Elementzuständen;
+    - Entwicklung von Prototypen für das Design-Layout;
+    - Entwicklung von Design und Benutzeroberfläche (UI).
 palette:
   - type: ''
     hex:

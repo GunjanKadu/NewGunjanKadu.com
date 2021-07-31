@@ -11,7 +11,7 @@ created: '2018-05-01'
 period:
   - '2018-05-01'
   - '2018-07-12'
-deadline: It took 2 months to complete the task.
+deadline: Es dauerte 2 Monate, bis die Aufgabe abgeschlossen war.
 preview:
   tools:
     - title: Design
@@ -46,16 +46,16 @@ client:
   logoJPG: null
   logoWEBP: null
   head: Medical Management
-  description: This project was built as one of my project work. Project on Bio-Medical & Hospital sector which is covering various field of this 3 sector.
-  issues: Implenting a Bio-Medical & Hospital sector administration app.
+  description: Dieses Projekt wurde als eine meiner Projektarbeiten erstellt. Ein Projekt im Bereich Bio-Medizin und Krankenhaus, das verschiedene Bereiche dieses Sektors abdeckt.
+  issues: Einführung einer Verwaltungsanwendung für den bio-medizinischen und Krankenhaussektor.
   task:
-    - A Clean UI explaining the workflow of the application.
-    - User Authentication SignUp/Signin
-    - Creating different accounts Doctors/Patients/
-    - Scheduling / Rescheduling appointments
-    - Creating / editing profile
-    - Communicating with doctors / patients
-    - Adding new doctors / patients
+    - Eine saubere Benutzeroberfläche, die den Arbeitsablauf der Anwendung erklärt.
+    - Benutzerauthentifizierung SignUp/Signin
+    - Anlegen verschiedener Konten Ärzte/Patienten/
+    - Terminplanung / Terminverschiebung
+    - Profil erstellen/bearbeiten
+    - Kommunikation mit Ärzten/Patienten
+    - Hinzufügen von neuen Ärzten/Patienten
 done:
   img:
     src: B4mpQoNA2Dm
@@ -64,17 +64,17 @@ done:
   alert:
     message:
   list:
-    - creating a relevance map;
-    - development of prototypes of the design layout;
-    - development of the concept of content-filling the application;
-    - formation of a palette of colors and development of a Style Guide;
-    - development of design and user interface (UI);
-    - formation of dependencies of different elements of the application;
-    # - development of an original and functional 404 error page;
-    # - development of scripts for calculating the cost of analyzes on service pages;
-    - implementing the logic;
-    - analysis of the correct display of the application on different window application;
-    - lauching and testing the work.
+    - Erstellung einer Relevanzkarte;
+    - Entwicklung von Prototypen für das Design-Layout;
+    - Entwicklung des Konzepts für das Füllen der Anwendung mit Inhalten;
+    - Bildung einer Farbpalette und Entwicklung eines Style Guides;
+    - Entwicklung des Designs und der Benutzeroberfläche (UI);
+    - Bildung von Abhängigkeiten zwischen den verschiedenen Elementen der Anwendung;
+    # - Entwicklung einer originellen und funktionellen 404-Fehlerseite;
+    # - Entwicklung von Skripten zur Berechnung der Kosten von Analysen auf Serviceseiten;
+    - Implementierung der Logik;
+    - Analyse der korrekten Anzeige der Anwendung in verschiedenen Fenstern;
+    - Start und Test der Arbeit.
 palette:
   - type: ''
     hex:
@@ -103,14 +103,14 @@ grid:
 responsive:
   percent: '100'
   dash:
-    Performance: '95'
-    Accessibility: '85'
-    Practices: '90'
-    Result Satisfaction: '85'
+    Leistung: '95'
+    Zugänglichkeit: '85'
+    Praktiken: '90'
+    Ergebnis-Zufriedenheit: '85'
 cms: ',https://github.com/GunjanKadu/Medical-Management-System;'
 goals:
   show: false
-  title: Achievement of the goal
+  title: Erreichung des Ziels
   chart:
     series:
     labels:

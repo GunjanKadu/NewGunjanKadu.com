@@ -1,9 +1,9 @@
 hide: false
 type: des-site
-title: Landing page design "Reddit"
+title: Landing Page Gestaltung "Reddit"
 img:
   src: https://cdn.dribbble.com/users/8580830/screenshots/16075324/media/5afed686841de73b9c7b29e34ad95892.png
-  alt: Landing page design "Reddit"
+  alt: Landing Page Gestaltung "Reddit"
 ux:
   works: REDESIGN
   price: Prototyping and design
@@ -11,7 +11,7 @@ created: '2019-11-05'
 period:
   - '2019-11-04'
   - '2019-11-10'
-deadline: The task took about approximately 5 days to complete.
+deadline: Die Aufgabe nahm etwa 5 Tage in Anspruch.
 preview:
   tools:
     - title: Design
@@ -19,9 +19,9 @@ preview:
         - Figma
         - Adobe Illustrator
   roles:
-    - title: My
+    - title: Meine
       tags:
-        - Ux/Ui Designer / Visual Designer
+        - Ux/Ui Designer / Visueller Designer
   to:
     dribbble: https://dribbble.com/shots/7971597-Forest-Fi-unlimited-free-internet-worldwide
     behance: https://www.behance.net/gallery/87728433/Wi-Fi-Free-in-Every-Tree
@@ -29,25 +29,25 @@ preview:
 client:
   logoJPG:
   logoWEBP:
-  head: Landing page redesign "Reddit"
-  description: Firstly, I must tell you reddit is a massive collection of forums where people can share news and content or comment on others. Now a days we have lot many social platforms to import and export the knowledge. As a explorer, I enjoy scolling reddit as compare to other social media platforms. I wanted to learn the basic and for most important things while designing any social media platform. I researched about the positioning of the icons in reddit because reddit website is filled with lot many icons if we observe. In designing positioning performs very crucial role in the product. I search about the user's thinking and usability by comparing other platforms (facebook, instagram, and many more).
+  head: Landing Page Gestaltung "Reddit"
+  description: Zunächst einmal muss ich Ihnen sagen, dass reddit eine riesige Sammlung von Foren ist, in denen Menschen Nachrichten und Inhalte teilen oder andere kommentieren können. Heutzutage haben wir viele soziale Plattformen, um das Wissen zu importieren und zu exportieren. Als Entdecker genieße ich es, reddit im Vergleich zu anderen Social-Media-Plattformen zu durchforsten. Ich wollte die grundlegenden und wichtigsten Dinge bei der Gestaltung einer Social-Media-Plattform lernen. Ich habe über die Positionierung der Icons in reddit recherchiert, weil die reddit-Website mit vielen Icons gefüllt ist, wenn wir sie beobachten. Bei der Gestaltung spielt die Positionierung eine sehr wichtige Rolle für das Produkt. Ich recherchiere über die Denkweise der Nutzer und die Benutzerfreundlichkeit, indem ich andere Plattformen (Facebook, Instagram und viele mehr) vergleiche.
   issues:
   task:
-    - in attempt to redesign an existing app in a better way
+    - bei dem Versuch, eine bestehende Anwendung besser zu gestalten
 done:
   img:
     src: B4dTsxIAc1E
-    alt: Landing page design "Reddit"
+    alt: Landing Page Gestaltung "Reddit"
     height:
   alert:
     message:
   list:
-    - redesign planning and development of the conceptual component;
-    - notice the positions of all the icons and importance of them in front (every icon specified in front has its own reason and comfort to users)
-    - 'analysis, review of other redesign: functionality, number of users, ratings, reviews;'
-    - formation of a palette of colors, typography, and element states;
-    - development of prototypes of the design layout;
-    - design and user interface (UI) development.
+    - Neugestaltung der Planung und Entwicklung der konzeptionellen Komponente;
+    - Beachtung der Positionen aller Icons und ihrer Bedeutung im Vordergrund (jedes im Vordergrund stehende Icon hat seinen eigenen Grund und ist für die Nutzer angenehm)
+    - Analyse, Überprüfung anderer Redesigns, Funktionalität, Anzahl der Nutzer, Bewertungen, Rezensionen;".
+    - Bildung einer Palette von Farben, Typografie und Elementstatus;
+    - Entwicklung von Prototypen für das Design-Layout;
+    - Design und Entwicklung der Benutzeroberfläche (UI).
 palette:
   - type: ''
     hex:

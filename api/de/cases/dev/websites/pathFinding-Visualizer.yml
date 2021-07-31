@@ -1,9 +1,9 @@
 hide: false
 type: dev-site
-title: Path Finding Visualizer
+title: Visualisierung der Pfadsuche
 img:
   src: /src/web/demoPathFinding.gif
-  alt: Path Finding Visualizer
+  alt: Visualisierung der Pfadsuche
 ux:
   works: DATA STRUCTURES / ALGORITHMS
   price: Logic
@@ -11,7 +11,7 @@ created: '2020-07-11'
 period:
   - '2020-07-11'
   - '2020-08-23'
-deadline: It took 1.5 month to complete the task.
+deadline: Es dauerte 1,5 Monate, bis die Aufgabe abgeschlossen war.
 preview:
   tools:
     - title: Design
@@ -37,45 +37,45 @@ preview:
     - title: My
       tags:
         - UI/UX Designer
-        - Frontend Developer
+        - Frontend-Entwickler
 
 client:
   logoJPG: null
   logoWEBP: null
-  head: Path Finding Visualizer
-  description: This project was built to explain which path finding algorithms best suits the need in one of our research tasks.
-  issues: Visualizing the way different path finding algorithms is a bit difficult without visual representation.
+  head: Visualisierung der Pfadsuche
+  description: Dieses Projekt wurde entwickelt, um zu erklären, welche Pfadfindungsalgorithmen sich am besten für die Anforderungen einer unserer Forschungsaufgaben eignen.
+  issues: Die Visualisierung der verschiedenen Algorithmen zur Wegfindung ist ohne visuelle Darstellung etwas schwierig.
   task:
-    - Visualize the following algorithm
-    - Dijkstra's Algorithm
-    - Bellman Ford Algorithm
-    - Breadth First Search
-    - Depth First Search
+    - Visualisieren Sie den folgenden Algorithmus
+    - Dijkstra'scher Algorithmus
+    - Bellman-Ford-Algorithmus
+    - Erste Suche in der Breite
+    - Erste Tiefensuche
 done:
   img:
     src: B4mpQoNA2Dm
-    alt: Redesign of the site of LLC "RIC"
+    alt: Visualisierung der Pfadsuche
     height:
   alert:
     message:
   list:
-    - analysing each algorithm;
-    - manually drawing the path and visualizing the path from each algorithm;
-    - creating a relevance map;
-    - development of prototypes of the design layout;
-    - development of the concept of content-filling the site;
-    - formation of a palette of colors and development of a Style Guide;
-    - development of design and user interface (UI);
-    - formation of dependencies of different elements of the site;
-    # - layout of the site using the Mobile First method and filling with the provided content;
-    # - development of an original and functional 404 error page;
-    # - development of scripts for calculating the cost of analyzes on service pages;
-    - implementing the algorithms using JS;
-    - adding animations to the visualization;
-    # - analysis of the correct display of the site in different browsers;
-    # - analysis of the correct display of the site on modern mobile devices;
-    # - launching and connecting end-to-end website analytics, tracking its effectiveness.
-    - lauching and testing the work.
+    - Analyse der einzelnen Algorithmen;
+    - manuelles Zeichnen des Pfades und Visualisierung des Pfades von jedem Algorithmus;
+    - Erstellung einer Relevanzkarte;
+    - Entwicklung von Prototypen für das Design-Layout;
+    - Entwicklung des Konzepts zum Füllen der Website mit Inhalten;
+    - Bildung einer Farbpalette und Entwicklung eines Style Guide;
+    - Entwicklung des Designs und der Benutzeroberfläche (UI);
+    - Bildung von Abhängigkeiten der verschiedenen Elemente der Website;
+    # Layout der Website nach der Mobile-First-Methode und Befüllung mit den bereitgestellten Inhalten;
+    # - Entwicklung einer originellen und funktionellen 404-Fehlerseite;
+    # - Entwicklung von Skripten zur Berechnung der Kosten von Analysen auf Serviceseiten;
+    - Implementierung der Algorithmen mit JS;
+    - Hinzufügen von Animationen zur Visualisierung;
+    # - Analyse der korrekten Darstellung der Website in verschiedenen Browsern;
+    # Analyse der korrekten Darstellung der Website auf modernen mobilen Geräten;
+    # - Einführung und Anbindung einer End-to-End-Analyse der Website, Nachverfolgung ihrer Wirksamkeit.
+    - Inbetriebnahme und Testen der Arbeit.
 palette:
   - type: ''
     hex:
@@ -104,9 +104,9 @@ grid:
 responsive:
   percent: '100'
   dash:
-    Performance: '95'
-    Accessibility: '80'
-    Practices: '90'
+    Leistung: '95'
+    Zugänglichkeit: '80'
+    Praktiken: '90'
     DS&A: '92'
 cms: 'https://gunjankadu.github.io/PathFindingVisualizer/,https://github.com/GunjanKadu/PathFindingVisualizer;'
 testimonials:
@@ -115,12 +115,12 @@ testimonials:
       src: ''
       alt: ''
     name: Abdul Karaagac
-    company: ABB Reasearch Center, Ladeburg
+    company: ABB-Forschungszentrum, Ladeburg
     link: http://abb.de/
-    position: Supervisor
-  message: We were immensely happy with the project as met the standard of our reasearch center and convincing our fellow teammates in choosing the write algorithm for the upcoming research. The project also includes some more self made path finding algorithm which cannot be publicized but are worth mentioning
+    position: Vorgesetzter
+  message: Wir waren sehr zufrieden mit dem Projekt, da es dem Standard unseres Forschungszentrums entsprach und unsere Teamkollegen bei der Auswahl des Schreibalgorithmus für die kommende Forschung überzeugte. Das Projekt umfasst auch einige weitere selbst entwickelte Algorithmen zur Pfadfindung, die nicht veröffentlicht werden können, aber erwähnenswert sind
 analytics:
-  result: the conversion rate was 13%.
+  result: lag die Umwandlungsrate bei 13 %.
   traffic:
     show: false
     title: Search traffic
@@ -132,7 +132,7 @@ analytics:
         data:
   goals:
     show: false
-    title: Achievement of the goal
+    title: Erreichung des Ziels
     chart:
       series:
       labels:

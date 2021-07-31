@@ -11,7 +11,7 @@ created: '2020-05-01'
 period:
   - '2020-05-01'
   - '2020-06-01'
-deadline: It took 1 month to complete the task.
+deadline: Es dauerte 1 Monat, bis die Aufgabe abgeschlossen war.
 preview:
   tools:
     - title: Design
@@ -33,25 +33,25 @@ preview:
   roles:
     - title: My
       tags:
-        - Developer
+        - Entwickler
 
 client:
   logoJPG: null
   logoWEBP: null
   head: Smice (Smart Choice)
-  description: This project was built as one of my project work. SMICE is a Application or Platform where all learning or education enthusiasts who are confused about which path to choose for their career, or the path which is suitable for their skillsets will be addressed.
-  issues: Implenting a learning and career discovering app
+  description: Dieses Projekt wurde als eine meiner Projektarbeiten erstellt. SMICE ist eine Anwendung oder Plattform, auf der alle Lern- und Bildungsbegeisterten angesprochen werden, die sich nicht sicher sind, welchen Weg sie für ihre Karriere wählen sollen oder welcher Weg für ihre Fähigkeiten geeignet ist.
+  issues: Einführung einer Lern- und Berufsentdeckungs-App
   task:
-    - A Variety of Courses to read with detailed explanation of each of the subject in the particular course.
-    - A Clean UI explaining the workflow of the application.
-    - An Questionnaire for the user to answer.
-    - Supports i18n with English and German Language.
-    - Ability to Save the Current Session of the User and then resume if something goes’s wrong.
-    - Navigating Between Questions and Answers.
-    - Editing Previously Answered Questions.
-    - A Summary Showing all the answered Questions and Answers.
-    - Details of the Recommended Course with the Universities offering those courses.
-    - Eligibility of the jobs after taking the recommended Courses.
+    - Eine Vielzahl von Kursen mit detaillierten Erklärungen zu den einzelnen Themen des jeweiligen Kurses.
+    - Eine saubere Benutzeroberfläche, die den Arbeitsablauf der Anwendung erklärt.
+    - Ein Fragebogen, den der Benutzer beantworten muss.
+    - Unterstützt i18n mit englischer und deutscher Sprache.
+    - Die Möglichkeit, die aktuelle Sitzung des Benutzers zu speichern und dann fortzusetzen, wenn etwas schief läuft.
+    - Navigieren zwischen Fragen und Antworten.
+    - Bearbeiten von zuvor beantworteten Fragen.
+    - Eine Zusammenfassung, die alle beantworteten Fragen und Antworten anzeigt.
+    - Details zu den empfohlenen Kursen mit den Universitäten, die diese Kurse anbieten.
+    - Berechtigung für die Jobs nach Absolvierung der empfohlenen Kurse.
 done:
   img:
     src: B4mpQoNA2Dm
@@ -60,17 +60,17 @@ done:
   alert:
     message:
   list:
-    - creating a relevance map;
-    - development of prototypes of the design layout;
-    - development of the concept of content-filling the application;
-    - formation of a palette of colors and development of a Style Guide;
-    - development of design and user interface (UI);
-    - formation of dependencies of different elements of the application;
-    # - development of an original and functional 404 error page;
-    # - development of scripts for calculating the cost of analyzes on service pages;
-    - implementing the logic;
-    - analysis of the correct display of the application on different window application;
-    - lauching and testing the work.
+    - Erstellung einer Relevanzkarte;
+    - Entwicklung von Prototypen für das Design-Layout;
+    - Entwicklung des Konzepts für das Füllen der Anwendung mit Inhalten;
+    - Bildung einer Farbpalette und Entwicklung eines Style Guides;
+    - Entwicklung des Designs und der Benutzeroberfläche (UI);
+    - Bildung von Abhängigkeiten zwischen den verschiedenen Elementen der Anwendung;
+    # - Entwicklung einer originellen und funktionellen 404-Fehlerseite;
+    # - Entwicklung von Skripten zur Berechnung der Kosten von Analysen auf Serviceseiten;
+    - Implementierung der Logik;
+    - Analyse der korrekten Anzeige der Anwendung in verschiedenen Fenstern;
+    - Start und Test der Arbeit.
 palette:
   - type: ''
     hex:
@@ -87,18 +87,18 @@ grid:
 responsive:
   percent: '100'
   dash:
-    Performance: '95'
-    Accessibility: '85'
-    Practices: '90'
-    Result Satisfaction: '85'
+    Leistung: '95'
+    Zugänglichkeit: '85'
+    Praktiken: '90'
+    Ergebnis-Zufriedenheit: '85'
 cms: ',https://github.com/GunjanKadu/CourseRecommendersForStudent;'
 goals:
   show: false
-  title: Achievement of the goal
+  title: Erreichung des Ziels
   chart:
     series:
     labels:
 conversion:
   show: true
-  title: Conversion
+  title: Umrechnung
   value: ['16']
