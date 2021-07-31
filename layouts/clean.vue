@@ -339,7 +339,7 @@ export default {
         title: 'Attention!',
         duration: 6000,
         // eslint-disable-next-line
-        text: 'Some pages may not be translated into this language. We are working on this and will try to translate as soon as possible.',
+        text: 'Some pages may not be translated into this language. I am working on this and will try to translate as soon as possible.',
       })
     },
     onScroll(e) {

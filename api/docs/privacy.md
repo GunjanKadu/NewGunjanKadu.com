@@ -67,5 +67,3 @@ Alle Zahlungsvorgänge der Agentur werden über sichere Übertragungskanäle abg
 ## Ihr Einverständnis
 
 Durch die Nutzung dieser Website erklären Sie sich mit der Erfassung und Verwendung der oben beschriebenen Informationen einverstanden. Wenn ich mich entschließe, meine Datenschutzrichtlinien zu ändern, werde ich diese Seite ändern, damit Sie immer wissen, welche Informationen gesammelt werden, wie sie verwendet werden und unter welchen Umständen sie weitergegeben werden.
-
-Übersetzt mit www.DeepL.com/Translator (kostenlose Version)
