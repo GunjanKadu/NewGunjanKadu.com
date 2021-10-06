@@ -83,9 +83,7 @@ export default function ({ app }) {
       options: {
         customProperties: true,
         minifyTheme(css) {
-          return process.env.NODE_ENV === 'production'
-            ? css.replace(/(?<!v-application)[\s|\r\n|\r|\n]/g, '')
-            : css
+          return process.env.NODE_ENV === 'production' ? css : css
         },
         // themeCache: {
         //   get: (key) => localStorage.getItem(key),
